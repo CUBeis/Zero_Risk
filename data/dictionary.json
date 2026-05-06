@@ -1,0 +1,5457 @@
+[
+  {
+    "ar": "إنذار الحريق",
+    "en": "Fire alarm",
+    "es": "Alarma de incendio"
+  },
+  {
+    "ar": "الإنذار المبكر",
+    "en": "Early warning",
+    "es": "Alerta temprana"
+  },
+  {
+    "ar": "الإسعاف",
+    "en": "Ambulance",
+    "es": "Ambulancia"
+  },
+  {
+    "ar": "التهديد",
+    "en": "Threat",
+    "es": "Amenaza"
+  },
+  {
+    "ar": "تحليل المخاطر",
+    "en": "Risk analysis",
+    "es": "Análisis de riesgos"
+  },
+  {
+    "ar": "دعم اتخاذ القرار",
+    "en": "Decision support",
+    "es": "Apoyo a la toma de decisiones"
+  },
+  {
+    "ar": "الدعم الميداني",
+    "en": "Field support",
+    "es": "Apoyo en campo"
+  },
+  {
+    "ar": "الدعم اللوجستي",
+    "en": "Logistic support",
+    "es": "Apoyo logístico"
+  },
+  {
+    "ar": "تخصيص الموارد",
+    "en": "Resource allocation",
+    "es": "Asignación de recursos"
+  },
+  {
+    "ar": "مركز التنسيق",
+    "en": "Coordination center",
+    "es": "Centro de coordinación"
+  },
+  {
+    "ar": "مركز القيادة والسيطرة",
+    "en": "Command and control center",
+    "es": "Centro de mando y control"
+  },
+  {
+    "ar": "مركز العمليات",
+    "en": "Operations center",
+    "es": "Centro de operaciones"
+  },
+  {
+    "ar": "إغلاق الحدث",
+    "en": "Incident closure",
+    "es": "Cierre del incidente"
+  },
+  {
+    "ar": "قيادة الحادث",
+    "en": "Incident command",
+    "es": "Comando de incidentes"
+  },
+  {
+    "ar": "الاتصال أثناء الأزمات",
+    "en": "Crisis communication",
+    "es": "Comunicación en crisis"
+  },
+  {
+    "ar": "الاتصال الفوري",
+    "en": "Immediate communication",
+    "es": "Comunicación inmediata"
+  },
+  {
+    "ar": "الوعي بالموقف",
+    "en": "Situational awareness",
+    "es": "Conciencia situacional"
+  },
+  {
+    "ar": "احتواء الأزمة",
+    "en": "Crisis containment",
+    "es": "Contención de la crisis"
+  },
+  {
+    "ar": "استمرارية العمل",
+    "en": "Business continuity",
+    "es": "Continuidad del negocio"
+  },
+  {
+    "ar": "السيطرة على الأزمة",
+    "en": "Crisis control",
+    "es": "Control de la crisis"
+  },
+  {
+    "ar": "تنسيق الطوارئ",
+    "en": "Emergency coordination",
+    "es": "Coordinación de emergencias"
+  },
+  {
+    "ar": "التنسيق بين الجهات",
+    "en": "Interagency coordination",
+    "es": "Coordinación interinstitucional"
+  },
+  {
+    "ar": "أزمة",
+    "en": "Crisis",
+    "es": "Crisis"
+  },
+  {
+    "ar": "كارثة",
+    "en": "Disaster",
+    "es": "Desastre"
+  },
+  {
+    "ar": "الانتشار السريع",
+    "en": "Rapid deployment",
+    "es": "Despliegue rápido"
+  },
+  {
+    "ar": "تمرين ميداني",
+    "en": "Field exercise",
+    "es": "Ejercicio de campo"
+  },
+  {
+    "ar": "تمرين مكتبي",
+    "en": "Tabletop exercise",
+    "es": "Ejercicio de mesa"
+  },
+  {
+    "ar": "الطوارئ",
+    "en": "",
+    "es": "Emergencia – Emergency"
+  },
+  {
+    "ar": "التدريب على الطوارئ",
+    "en": "Emergency training",
+    "es": "Entrenamiento de emergencias"
+  },
+  {
+    "ar": "فرق الاستجابة",
+    "en": "Response teams",
+    "es": "Equipos de respuesta"
+  },
+  {
+    "ar": "فرق الطوارئ الطبية",
+    "en": "Emergency medical teams",
+    "es": "Equipos médicos de emergencia"
+  },
+  {
+    "ar": "تصعيد الحدث",
+    "en": "Incident escalation",
+    "es": "Escalamiento del incidente"
+  },
+  {
+    "ar": "سيناريو الأزمة",
+    "en": "Crisis scenario",
+    "es": "Escenario de crisis"
+  },
+  {
+    "ar": "إخلاء",
+    "en": "Evacuation",
+    "es": "Evacuación"
+  },
+  {
+    "ar": "تقييم الاستجابة",
+    "en": "Response evaluation",
+    "es": "Evaluación de la respuesta"
+  },
+  {
+    "ar": "تقييم الوضع",
+    "en": "Situation assessment",
+    "es": "Evaluación de la situación"
+  },
+  {
+    "ar": "تقييم المخاطر",
+    "en": "Risk assessment",
+    "es": "Evaluación de riesgos"
+  },
+  {
+    "ar": "التقييم الميداني",
+    "en": "Field assessment",
+    "es": "Evaluación en campo"
+  },
+  {
+    "ar": "التقييم الأولي",
+    "en": "Initial assessment",
+    "es": "Evaluación inicial"
+  },
+  {
+    "ar": "التعرض للخطر",
+    "en": "Risk exposure",
+    "es": "Exposición al riesgo"
+  },
+  {
+    "ar": "تدفق المعلومات",
+    "en": "Information flow",
+    "es": "Flujo de información"
+  },
+  {
+    "ar": "إدارة الأزمات",
+    "en": "Crisis management",
+    "es": "Gestión de crisis"
+  },
+  {
+    "ar": "إدارة الكوارث",
+    "en": "Disaster management",
+    "es": "Gestión de desastres"
+  },
+  {
+    "ar": "إدارة التصعيد",
+    "en": "Escalation management",
+    "es": "Gestión de escalamiento"
+  },
+  {
+    "ar": "إدارة الحوادث",
+    "en": "Incident management",
+    "es": "Gestión de incidentes"
+  },
+  {
+    "ar": "إدارة المعلومات",
+    "en": "Information management",
+    "es": "Gestión de información"
+  },
+  {
+    "ar": "إدارة أصحاب المصلحة",
+    "en": "Stakeholder management",
+    "es": "Gestión de partes interesadas"
+  },
+  {
+    "ar": "إدارة الأولويات",
+    "en": "Priority management",
+    "es": "Gestión de prioridades"
+  },
+  {
+    "ar": "إدارة الموارد",
+    "en": "Resource management",
+    "es": "Gestión de recursos"
+  },
+  {
+    "ar": "إدارة المخاطر",
+    "en": "Risk management",
+    "es": "Gestión de riesgos"
+  },
+  {
+    "ar": "أثر الخطر",
+    "en": "Risk impact",
+    "es": "Impacto del riesgo"
+  },
+  {
+    "ar": "رفع درجة الاستعداد",
+    "en": "Heightened readiness",
+    "es": "Incremento del nivel de preparación"
+  },
+  {
+    "ar": "مؤشر الاستجابة",
+    "en": "Response indicator",
+    "es": "Indicador de respuesta"
+  },
+  {
+    "ar": "تقرير الحالة",
+    "en": "Situation report",
+    "es": "Informe de situación"
+  },
+  {
+    "ar": "تقرير ختامي للأزمة",
+    "en": "Final crisis report",
+    "es": "Informe final de crisis"
+  },
+  {
+    "ar": "تبادل المعلومات",
+    "en": "Information sharing",
+    "es": "Intercambio de información"
+  },
+  {
+    "ar": "الدروس المستفادة",
+    "en": "Lessons learned",
+    "es": "Lecciones aprendidas"
+  },
+  {
+    "ar": "خط الطوارئ",
+    "en": "Emergency hotline",
+    "es": "Línea de emergencia"
+  },
+  {
+    "ar": "خريطة المخاطر",
+    "en": "Risk map",
+    "es": "Mapa de riesgos"
+  },
+  {
+    "ar": "مصفوفة المخاطر",
+    "en": "Risk matrix",
+    "es": "Matriz de riesgos"
+  },
+  {
+    "ar": "التحسين المستمر",
+    "en": "Continuous improvement",
+    "es": "Mejora continua"
+  },
+  {
+    "ar": "التخفيف من المخاطر",
+    "en": "Risk mitigation",
+    "es": "Mitigación de riesgos"
+  },
+  {
+    "ar": "مراقبة المخاطر",
+    "en": "Risk monitoring",
+    "es": "Monitoreo de riesgos"
+  },
+  {
+    "ar": "تعبئة الموارد",
+    "en": "Resource mobilization",
+    "es": "Movilización de recursos"
+  },
+  {
+    "ar": "مستوى التأهب",
+    "en": "Alert level",
+    "es": "Nivel de alerta"
+  },
+  {
+    "ar": "خطة الطوارئ",
+    "en": "Emergency plan",
+    "es": "Plan de emergencia"
+  },
+  {
+    "ar": "خطة الإخلاء",
+    "en": "Evacuation plan",
+    "es": "Plan de evacuación"
+  },
+  {
+    "ar": "خطة الإخلاء الطارئ",
+    "en": "Emergency evacuation plan",
+    "es": "Plan de evacuación de emergencia"
+  },
+  {
+    "ar": "خطة الاستجابة",
+    "en": "Response plan",
+    "es": "Plan de respuesta"
+  },
+  {
+    "ar": "التخطيط بالسيناريوهات",
+    "en": "Scenario planning",
+    "es": "Planificación por escenarios"
+  },
+  {
+    "ar": "الجاهزية التشغيلية",
+    "en": "Operational readiness",
+    "es": "Preparación operativa"
+  },
+  {
+    "ar": "الاستعداد للطوارئ",
+    "en": "Emergency preparedness",
+    "es": "Preparación para emergencias"
+  },
+  {
+    "ar": "احتمال الخطر",
+    "en": "Risk probability",
+    "es": "Probabilidad del riesgo"
+  },
+  {
+    "ar": "إجراءات التشغيل القياسية",
+    "en": "Standard operating procedures",
+    "es": "Procedimientos operativos estándar"
+  },
+  {
+    "ar": "بروتوكول الطوارئ",
+    "en": "Emergency protocol",
+    "es": "Protocolo de emergencia"
+  },
+  {
+    "ar": "اختبار الجاهزية",
+    "en": "Readiness testing",
+    "es": "Prueba de preparación"
+  },
+  {
+    "ar": "نقطة القيادة الميدانية",
+    "en": "Forward command post",
+    "es": "Puesto de mando avanzado"
+  },
+  {
+    "ar": "نقطة التجمع",
+    "en": "Assembly point",
+    "es": "Punto de reunión"
+  },
+  {
+    "ar": "استئناف الخدمات",
+    "en": "Service restoration",
+    "es": "Reanudación de servicios"
+  },
+  {
+    "ar": "إعادة الإعمار",
+    "en": "",
+    "es": "Reconstrucción – Reconstruction"
+  },
+  {
+    "ar": "التعافي",
+    "en": "Recovery",
+    "es": "Recuperación"
+  },
+  {
+    "ar": "التعافي التشغيلي",
+    "en": "Operational recovery",
+    "es": "Recuperación operativa"
+  },
+  {
+    "ar": "سجل المخاطر",
+    "en": "Risk register",
+    "es": "Registro de riesgos"
+  },
+  {
+    "ar": "المرونة المجتمعية",
+    "en": "Community resilience",
+    "es": "Resiliencia comunitaria"
+  },
+  {
+    "ar": "المرونة المؤسسية",
+    "en": "Institutional resilience",
+    "es": "Resiliencia institucional"
+  },
+  {
+    "ar": "الاستجابة للطوارئ",
+    "en": "Emergency response",
+    "es": "Respuesta a emergencias"
+  },
+  {
+    "ar": "الاستجابة السريعة",
+    "en": "Rapid response",
+    "es": "Respuesta rápida"
+  },
+  {
+    "ar": "العودة التدريجية للعمل",
+    "en": "Phased return to operations",
+    "es": "Retorno gradual a las operaciones"
+  },
+  {
+    "ar": "مراجعة ما بعد الحادث",
+    "en": "Post",
+    "es": "Revisión posterior al incidente"
+  },
+  {
+    "ar": "غرفة العمليات",
+    "en": "Operations room",
+    "es": "Sala de operaciones"
+  },
+  {
+    "ar": "سلامة الأفراد",
+    "en": "Personnel safety",
+    "es": "Seguridad del personal"
+  },
+  {
+    "ar": "السلامة في مكان العمل",
+    "en": "Workplace safety",
+    "es": "Seguridad en el trabajo"
+  },
+  {
+    "ar": "خدمات الطوارئ",
+    "en": "Emergency services",
+    "es": "Servicios de emergencia"
+  },
+  {
+    "ar": "محاكاة الأزمات",
+    "en": "Crisis simulation",
+    "es": "Simulación de crisis"
+  },
+  {
+    "ar": "تمرين الإخلاء",
+    "en": "Evacuation drill",
+    "es": "Simulacro de evacuación"
+  },
+  {
+    "ar": "نظام الإنذار",
+    "en": "Alarm system",
+    "es": "Sistema de alarma"
+  },
+  {
+    "ar": "نظام إدارة الحوادث",
+    "en": "Incident management system",
+    "es": "Sistema de gestión de incidentes"
+  },
+  {
+    "ar": "زمن الاستجابة",
+    "en": "Response time",
+    "es": "Tiempo de respuesta"
+  },
+  {
+    "ar": "التحقق الميداني",
+    "en": "Field verification",
+    "es": "Verificación en campo"
+  },
+  {
+    "ar": "قابلية التأثر",
+    "en": "Vulnerability",
+    "es": "Vulnerabilidad"
+  },
+  {
+    "ar": "حادث بحري",
+    "en": "Maritime accident",
+    "es": "Accidente marítimo"
+  },
+  {
+    "ar": "إنذار بحري مبكر",
+    "en": "Maritime early warning",
+    "es": "Alerta marítima temprana"
+  },
+  {
+    "ar": "مرساة السفينة",
+    "en": "Ship anchor",
+    "es": "Ancla"
+  },
+  {
+    "ar": "منطقة البحث والإنقاذ",
+    "en": "Search and rescue region (SRR)",
+    "es": "Área SAR"
+  },
+  {
+    "ar": "مناطق بحرية محمية",
+    "en": "Marine protected areas",
+    "es": "Áreas marinas protegidas"
+  },
+  {
+    "ar": "مساعدة بحرية",
+    "en": "Maritime assistance",
+    "es": "Asistencia marítima"
+  },
+  {
+    "ar": "جهاز تحديد موقع الطوارئ",
+    "en": "Emergency Position-Indicating Radio Beacon (EPIRB)",
+    "es": "Baliza de localización"
+  },
+  {
+    "ar": "زورق إنقاذ",
+    "en": "Rescue boat",
+    "es": "Bote de rescate"
+  },
+  {
+    "ar": "قارب مطاطي",
+    "en": "Inflatable boat",
+    "es": "Bote inflable"
+  },
+  {
+    "ar": "قارب نجاة",
+    "en": "Lifeboat",
+    "es": "Bote salvavidas"
+  },
+  {
+    "ar": "عوامة إنقاذ",
+    "en": "Lifebuoy",
+    "es": "Boya de salvamento"
+  },
+  {
+    "ar": "سفينة إنقاذ",
+    "en": "Rescue vessel",
+    "es": "Buque de rescate"
+  },
+  {
+    "ar": "سفينة في حالة استغاثة",
+    "en": "Vessel in distress",
+    "es": "Buque en peligro"
+  },
+  {
+    "ar": "سفينة غارقة",
+    "en": "Sunken vessel",
+    "es": "Buque hundido"
+  },
+  {
+    "ar": "قناة الطوارئ البحرية",
+    "en": "Maritime emergency channel",
+    "es": "Canal de emergencia marítima"
+  },
+  {
+    "ar": "تدريب الطاقم البحري",
+    "en": "Crew training",
+    "es": "Capacitación de la tripulación"
+  },
+  {
+    "ar": "تدريب على السلامة البحرية",
+    "en": "Maritime safety training",
+    "es": "Capacitación en seguridad marítima"
+  },
+  {
+    "ar": "مركز مراقبة السواحل",
+    "en": "Coastal monitoring center",
+    "es": "Centro de vigilancia costera"
+  },
+  {
+    "ar": "سترات نجاة",
+    "en": "Life jackets",
+    "es": "Chalecos salvavidas"
+  },
+  {
+    "ar": "إغلاق الميناء",
+    "en": "Port closure",
+    "es": "Cierre del puerto"
+  },
+  {
+    "ar": "تصادم سفن",
+    "en": "Ship collision",
+    "es": "Colisión de buques"
+  },
+  {
+    "ar": "أحوال الطقس البحرية",
+    "en": "Maritime weather conditions",
+    "es": "Condiciones marítimas"
+  },
+  {
+    "ar": "تلوث بحري",
+    "en": "Marine pollution",
+    "es": "Contaminación marina"
+  },
+  {
+    "ar": "احتواء التسرب النفطي",
+    "en": "Oil spill containment",
+    "es": "Contención de derrames de petróleo"
+  },
+  {
+    "ar": "مراقبة الملاحة البحرية",
+    "en": "Maritime traffic control",
+    "es": "Control de navegación"
+  },
+  {
+    "ar": "تنسيق البحث والإنقاذ",
+    "en": "Search and rescue coordination",
+    "es": "Coordinación SAR"
+  },
+  {
+    "ar": "تيارات بحرية",
+    "en": "Ocean currents",
+    "es": "Corrientes marinas"
+  },
+  {
+    "ar": "انقطاع الطاقة على متن السفينة",
+    "en": "Power failure onboard",
+    "es": "Corte de energía"
+  },
+  {
+    "ar": "تسرب نفطي",
+    "en": "Oil spill",
+    "es": "Derrame de petróleo"
+  },
+  {
+    "ar": "تسرب مواد كيميائية بحرية",
+    "en": "Marine chemical spill",
+    "es": "Derrame químico"
+  },
+  {
+    "ar": "تمارين بحرية",
+    "en": "Maritime drills",
+    "es": "Ejercicios marítimos"
+  },
+  {
+    "ar": "قارب دورية",
+    "en": "Patrol boat",
+    "es": "Embarcación de patrulla"
+  },
+  {
+    "ar": "جنوح سفينة",
+    "en": "Ship grounding",
+    "es": "Encallamiento"
+  },
+  {
+    "ar": "فريق الإنقاذ البحري",
+    "en": "Maritime rescue team",
+    "es": "Equipo de rescate marítimo"
+  },
+  {
+    "ar": "معدات مكافحة الحريق",
+    "en": "Firefighting equipment",
+    "es": "Equipos contra incendios"
+  },
+  {
+    "ar": "معدات السلامة البحرية",
+    "en": "Maritime safety equipment",
+    "es": "Equipos de seguridad marítima"
+  },
+  {
+    "ar": "إخلاء بحري",
+    "en": "Maritime evacuation",
+    "es": "Evacuación marítima"
+  },
+  {
+    "ar": "إخلاء طبي بحري",
+    "en": "Maritime medical evacuation (MEDEVAC)",
+    "es": "Evacuación médica marítima"
+  },
+  {
+    "ar": "تقييم الحالة البحرية",
+    "en": "Maritime situation assessment",
+    "es": "Evaluación de la situación marítima"
+  },
+  {
+    "ar": "أعطال ميكانيكية بالسفينة",
+    "en": "Mechanical failure onboard",
+    "es": "Fallas mecánicas"
+  },
+  {
+    "ar": "منارة بحرية",
+    "en": "Lighthouse",
+    "es": "Faro"
+  },
+  {
+    "ar": "إدارة السفن",
+    "en": "Vessel management",
+    "es": "Gestión de buques"
+  },
+  {
+    "ar": "إدارة الأزمات البحرية",
+    "en": "Maritime crisis management",
+    "es": "Gestión de crisis marítimas"
+  },
+  {
+    "ar": "إدارة الموانئ",
+    "en": "Port management",
+    "es": "Gestión portuaria"
+  },
+  {
+    "ar": "خفر السواحل",
+    "en": "Coast guard",
+    "es": "Guardia costera"
+  },
+  {
+    "ar": "أمن الميناء",
+    "en": "Port security",
+    "es": "Guardia portuaria"
+  },
+  {
+    "ar": "مهبط مروحيات بحري",
+    "en": "Maritime helipad",
+    "es": "Helipuerto marítimo"
+  },
+  {
+    "ar": "غرق سفينة",
+    "en": "Ship sinking",
+    "es": "Hundimiento de buque"
+  },
+  {
+    "ar": "إعصار مداري",
+    "en": "Tropical cyclone / hurricane",
+    "es": "Huracán"
+  },
+  {
+    "ar": "حريق على متن السفينة",
+    "en": "Fire on board",
+    "es": "Incendio a bordo"
+  },
+  {
+    "ar": "تقارير السلامة البحرية",
+    "en": "Maritime safety reports",
+    "es": "Informes de seguridad marítima"
+  },
+  {
+    "ar": "تفتيش بحري",
+    "en": "Maritime inspection",
+    "es": "Inspección marítima"
+  },
+  {
+    "ar": "زورق سريع",
+    "en": "Fast boat",
+    "es": "Lancha rápida"
+  },
+  {
+    "ar": "تنظيف التلوث البحري",
+    "en": "Marine pollution cleanup",
+    "es": "Limpieza de contaminación marina"
+  },
+  {
+    "ar": "تتبع السفن",
+    "en": "Vessel tracking",
+    "es": "Localización de buques"
+  },
+  {
+    "ar": "مكافحة الحرائق البحرية",
+    "en": "Marine firefighting",
+    "es": "Lucha contra incendios marítimos"
+  },
+  {
+    "ar": "صيانة السفن",
+    "en": "Vessel maintenance",
+    "es": "Mantenimiento de buques"
+  },
+  {
+    "ar": "مواد خطرة بحرية",
+    "en": "Maritime hazardous materials (HAZMAT)",
+    "es": "Materiales peligrosos marítimos"
+  },
+  {
+    "ar": "مراقبة جودة المياه",
+    "en": "Water quality monitoring",
+    "es": "Monitoreo de la calidad del agua"
+  },
+  {
+    "ar": "ضباب بحري",
+    "en": "Sea fog",
+    "es": "Niebla marina"
+  },
+  {
+    "ar": "أمواج عالية",
+    "en": "High waves",
+    "es": "Olas altas"
+  },
+  {
+    "ar": "تشغيل السفن",
+    "en": "Vessel operation",
+    "es": "Operación de buques"
+  },
+  {
+    "ar": "عملية البحث والإنقاذ",
+    "en": "Search and rescue (SAR) operation",
+    "es": "Operación de búsqueda y rescate"
+  },
+  {
+    "ar": "دورية بحرية",
+    "en": "Maritime patrol",
+    "es": "Patrulla marítima"
+  },
+  {
+    "ar": "فقدان السيطرة على السفينة",
+    "en": "Loss of vessel control",
+    "es": "Pérdida de control del buque"
+  },
+  {
+    "ar": "خطة البحث والإنقاذ",
+    "en": "SAR plan",
+    "es": "Plan de búsqueda y rescate"
+  },
+  {
+    "ar": "خطة طوارئ بحرية",
+    "en": "Maritime emergency plan",
+    "es": "Plan de emergencia marítima"
+  },
+  {
+    "ar": "الجاهزية البحرية",
+    "en": "Maritime preparedness",
+    "es": "Preparación marítima"
+  },
+  {
+    "ar": "إسعافات أولية بحرية",
+    "en": "Maritime first aid",
+    "es": "Primeros auxilios marítimos"
+  },
+  {
+    "ar": "إجراءات الإخلاء البحري",
+    "en": "Maritime evacuation procedures",
+    "es": "Procedimientos de evacuación marítima"
+  },
+  {
+    "ar": "التنبؤات البحرية",
+    "en": "Marine forecast",
+    "es": "Pronóstico marítimo"
+  },
+  {
+    "ar": "حماية البيئة البحرية",
+    "en": "Marine environmental protection",
+    "es": "Protección del medio marino"
+  },
+  {
+    "ar": "ميناء بحري",
+    "en": "Seaport",
+    "es": "Puerto marítimo"
+  },
+  {
+    "ar": "رادار بحري",
+    "en": "Marine radar",
+    "es": "Radar marítimo"
+  },
+  {
+    "ar": "جهاز اتصال بحري لاسلكي",
+    "en": "Marine communication radio",
+    "es": "Radio de comunicación marítima"
+  },
+  {
+    "ar": "تسجيل الحوادث البحرية",
+    "en": "Maritime incident reporting",
+    "es": "Registro de incidentes marítimos"
+  },
+  {
+    "ar": "إنقاذ جوي بحري",
+    "en": "Maritime air rescue",
+    "es": "Rescate aéreo marítimo"
+  },
+  {
+    "ar": "إنقاذ الغرقى",
+    "en": "Drowning rescue",
+    "es": "Rescate de ahogados"
+  },
+  {
+    "ar": "إنقاذ بحري",
+    "en": "Maritime rescue",
+    "es": "Rescate marítimo"
+  },
+  {
+    "ar": "الاستجابة للتلوث البحري",
+    "en": "Marine pollution response",
+    "es": "Respuesta a contaminación marina"
+  },
+  {
+    "ar": "استجابة بحرية للطوارئ",
+    "en": "Maritime emergency response",
+    "es": "Respuesta marítima de emergencia"
+  },
+  {
+    "ar": "حطام سفينة",
+    "en": "Shipwreck debris",
+    "es": "Restos de naufragio"
+  },
+  {
+    "ar": "مخاطر بحرية",
+    "en": "Maritime hazards",
+    "es": "Riesgos marítimos"
+  },
+  {
+    "ar": "مخارج الطوارئ على السفينة",
+    "en": "Emergency exits onboard",
+    "es": "Salidas de emergencia"
+  },
+  {
+    "ar": "سلامة الملاحة",
+    "en": "Navigation safety",
+    "es": "Seguridad de la navegación"
+  },
+  {
+    "ar": "سلامة الطاقم",
+    "en": "Crew safety",
+    "es": "Seguridad de la tripulación"
+  },
+  {
+    "ar": "نداء استغاثة",
+    "en": "Distress signal",
+    "es": "Señal de socorro"
+  },
+  {
+    "ar": "إشارة ضوئية",
+    "en": "Light signal",
+    "es": "Señal luminosa"
+  },
+  {
+    "ar": "محاكاة حوادث بحرية",
+    "en": "Maritime incident simulation",
+    "es": "Simulación de accidentes marítimos"
+  },
+  {
+    "ar": "صافرة إنذار",
+    "en": "Alarm siren",
+    "es": "Sirena de alarma"
+  },
+  {
+    "ar": "نظام الاتصالات البحرية",
+    "en": "Maritime communication system",
+    "es": "Sistema de comunicaciones marítimas"
+  },
+  {
+    "ar": "نظام التعرف الآلي للسفن",
+    "en": "Automatic Identification System (AIS)",
+    "es": "Sistema de identificación automática"
+  },
+  {
+    "ar": "نظام تحديد المواقع العالمي",
+    "en": "Global Positioning System (GPS)",
+    "es": "Sistema de posicionamiento global"
+  },
+  {
+    "ar": "أنظمة الطوارئ على متن السفينة",
+    "en": "Onboard emergency systems",
+    "es": "Sistemas de emergencia a bordo"
+  },
+  {
+    "ar": "البقاء على قيد الحياة في البحر",
+    "en": "Survival at sea",
+    "es": "Supervivencia en el mar"
+  },
+  {
+    "ar": "عاصفة بحرية",
+    "en": "Sea storm",
+    "es": "Tormenta marítima"
+  },
+  {
+    "ar": "حركة الملاحة البحرية",
+    "en": "Maritime traffic",
+    "es": "Tráfico marítimo"
+  },
+  {
+    "ar": "بدلة نجاة",
+    "en": "Survival suit",
+    "es": "Traje de supervivencia"
+  },
+  {
+    "ar": "انخفاض الرؤية البحرية",
+    "en": "Reduced visibility at sea",
+    "es": "Visibilidad reducida"
+  },
+  {
+    "ar": "منطقة خطر بحرية",
+    "en": "Maritime danger zone",
+    "es": "Zona de peligro"
+  },
+  {
+    "ar": "حادث مفاعل",
+    "en": "Reactor accident",
+    "es": "Accidente de reactor"
+  },
+  {
+    "ar": "حادث نووي",
+    "en": "Nuclear accident",
+    "es": "Accidente nuclear"
+  },
+  {
+    "ar": "نشاط إشعاعي",
+    "en": "Radioactivity",
+    "es": "Actividad radiactiva"
+  },
+  {
+    "ar": "تحذير إشعاعي عام",
+    "en": "Public radiological warning",
+    "es": "Advertencia pública"
+  },
+  {
+    "ar": "إنذار تلقائي",
+    "en": "Automatic alarm",
+    "es": "Alarma automática"
+  },
+  {
+    "ar": "إنذار الجرعة",
+    "en": "Dose alarm",
+    "es": "Alarma de dosis"
+  },
+  {
+    "ar": "إنذار إشعاعي",
+    "en": "Radiological alert",
+    "es": "Alerta radiológica"
+  },
+  {
+    "ar": "تخزين المواد المشعة",
+    "en": "Radioactive storage",
+    "es": "Almacenamiento"
+  },
+  {
+    "ar": "تهديد إشعاعي",
+    "en": "Radiological threat",
+    "es": "Amenaza radiológica"
+  },
+  {
+    "ar": "دعم القرار النووي",
+    "en": "Nuclear decision support",
+    "es": "Apoyo a decisiones"
+  },
+  {
+    "ar": "هجوم إشعاعي",
+    "en": "Radiological attack",
+    "es": "Ataque radiológico"
+  },
+  {
+    "ar": "مركز الطوارئ النووي",
+    "en": "Nuclear emergency center",
+    "es": "Centro de emergencia nuclear"
+  },
+  {
+    "ar": "إغلاق منشأة نووية",
+    "en": "Nuclear facility shutdown",
+    "es": "Cierre de instalación nuclear"
+  },
+  {
+    "ar": "وقود نووي",
+    "en": "Nuclear fuel",
+    "es": "Combustible nuclear"
+  },
+  {
+    "ar": "الاتصال أثناء الطوارئ",
+    "en": "Emergency communication",
+    "es": "Comunicación en emergencia"
+  },
+  {
+    "ar": "التوعية الإشعاعية",
+    "en": "Radiological awareness",
+    "es": "Concienciación radiológica"
+  },
+  {
+    "ar": "عداد غايغر",
+    "en": "Geiger counter",
+    "es": "Contador Geiger"
+  },
+  {
+    "ar": "تلوث إشعاعي بيئي",
+    "en": "Environmental contamination",
+    "es": "Contaminación ambiental"
+  },
+  {
+    "ar": "التلوث الإشعاعي الخارجي",
+    "en": "External contamination",
+    "es": "Contaminación externa"
+  },
+  {
+    "ar": "التلوث الإشعاعي الداخلي",
+    "en": "Internal contamination",
+    "es": "Contaminación interna"
+  },
+  {
+    "ar": "احتواء الإشعاع",
+    "en": "Radiation containment",
+    "es": "Contención de radiación"
+  },
+  {
+    "ar": "مراقبة الجرعات",
+    "en": "Dose monitoring",
+    "es": "Control de dosis"
+  },
+  {
+    "ar": "تنسيق الاستجابة",
+    "en": "Response coordination",
+    "es": "Coordinación de respuesta"
+  },
+  {
+    "ar": "إزالة التلوث البيئي",
+    "en": "Environmental decontamination",
+    "es": "Descontaminación ambiental"
+  },
+  {
+    "ar": "إزالة التلوث الشخصي",
+    "en": "Personal decontamination",
+    "es": "Descontaminación personal"
+  },
+  {
+    "ar": "إزالة التلوث الإشعاعي",
+    "en": "Radiological decontamination",
+    "es": "Descontaminación radiológica"
+  },
+  {
+    "ar": "جهاز كشف الإشعاع",
+    "en": "Radiation detector",
+    "es": "Detector de radiación"
+  },
+  {
+    "ar": "اتجاه الرياح",
+    "en": "Wind direction",
+    "es": "Dirección del viento"
+  },
+  {
+    "ar": "إرشادات السلامة",
+    "en": "Safety guidelines",
+    "es": "Directrices de seguridad"
+  },
+  {
+    "ar": "انتشار إشعاعي",
+    "en": "Radiological dispersion",
+    "es": "Dispersión radiológica"
+  },
+  {
+    "ar": "جهاز قياس الجرعة",
+    "en": "Dosimeter",
+    "es": "Dosímetro"
+  },
+  {
+    "ar": "الجرعة الممتصة",
+    "en": "Absorbed dose",
+    "es": "Dosis absorbida"
+  },
+  {
+    "ar": "الجرعة الإشعاعية",
+    "en": "Radiation dose",
+    "es": "Dosis de radiación"
+  },
+  {
+    "ar": "الجرعة الفعالة",
+    "en": "Effective dose",
+    "es": "Dosis efectiva"
+  },
+  {
+    "ar": "الجرعة المكافئة",
+    "en": "Equivalent dose",
+    "es": "Dosis equivalente"
+  },
+  {
+    "ar": "تمارين الطوارئ النووية",
+    "en": "Nuclear drills",
+    "es": "Ejercicios nucleares"
+  },
+  {
+    "ar": "التخلص من النفايات المشعة",
+    "en": "Radioactive waste disposal",
+    "es": "Eliminación de residuos radiactivos"
+  },
+  {
+    "ar": "طوارئ إشعاعية",
+    "en": "Radiological emergency",
+    "es": "Emergencia radiológica"
+  },
+  {
+    "ar": "معدات الوقاية الشخصية",
+    "en": "Personal protective equipment (PPE)",
+    "es": "Equipo de protección personal"
+  },
+  {
+    "ar": "فريق الاستجابة الإشعاعية",
+    "en": "Radiological response team",
+    "es": "Equipo de respuesta radiológica"
+  },
+  {
+    "ar": "درع إشعاعي",
+    "en": "Radiation shield",
+    "es": "Escudo protector"
+  },
+  {
+    "ar": "إخلاء إشعاعي",
+    "en": "Radiological evacuation",
+    "es": "Evacuación radiológica"
+  },
+  {
+    "ar": "تقييم الأثر الإشعاعي",
+    "en": "Radiological impact assessment",
+    "es": "Evaluación de impacto"
+  },
+  {
+    "ar": "تقييم الخطر الإشعاعي",
+    "en": "Radiological risk assessment",
+    "es": "Evaluación del riesgo"
+  },
+  {
+    "ar": "تقييم ما بعد الحادث",
+    "en": "Post-incident assessment",
+    "es": "Evaluación posterior"
+  },
+  {
+    "ar": "التعرض للإشعاع",
+    "en": "Radiation exposure",
+    "es": "Exposición a la radiación"
+  },
+  {
+    "ar": "التعرض الحاد للإشعاع",
+    "en": "Acute radiation exposure",
+    "es": "Exposición aguda a la radiación"
+  },
+  {
+    "ar": "التعرض المهني",
+    "en": "Occupational exposure",
+    "es": "Exposición ocupacional"
+  },
+  {
+    "ar": "تسرب نووي",
+    "en": "Nuclear release",
+    "es": "Fuga nuclear"
+  },
+  {
+    "ar": "تسرب إشعاعي",
+    "en": "Radioactive release",
+    "es": "Fuga radiactiva"
+  },
+  {
+    "ar": "انصهار المفاعل",
+    "en": "Core meltdown",
+    "es": "Fusión del núcleo"
+  },
+  {
+    "ar": "إدارة النفايات النووية",
+    "en": "Nuclear waste management",
+    "es": "Gestión de residuos"
+  },
+  {
+    "ar": "مقياس الغراي",
+    "en": "Gray (Gy)",
+    "es": "Gray"
+  },
+  {
+    "ar": "قفازات واقية",
+    "en": "Protective gloves",
+    "es": "Guantes de protección"
+  },
+  {
+    "ar": "التفتيش النووي",
+    "en": "Nuclear inspection",
+    "es": "Inspección nuclear"
+  },
+  {
+    "ar": "فحص إشعاعي",
+    "en": "Radiological survey",
+    "es": "Inspección radiológica"
+  },
+  {
+    "ar": "نظائر مشعة",
+    "en": "Radioisotopes",
+    "es": "Isótopos radiactivos"
+  },
+  {
+    "ar": "الدروس المستفادة",
+    "en": "Lessons learned",
+    "es": "Lecciones aprendidas"
+  },
+  {
+    "ar": "حد الجرعة",
+    "en": "Dose limit",
+    "es": "Límite de dosis"
+  },
+  {
+    "ar": "قناع تنفس",
+    "en": "Respirator",
+    "es": "Máscara respiratoria"
+  },
+  {
+    "ar": "مادة مشعة",
+    "en": "Radioactive material",
+    "es": "Material radiactivo"
+  },
+  {
+    "ar": "قياس الإشعاع",
+    "en": "Radiation measurement",
+    "es": "Medición de radiación"
+  },
+  {
+    "ar": "تحسين الجاهزية",
+    "en": "Preparedness improvement",
+    "es": "Mejora de preparación"
+  },
+  {
+    "ar": "نمذجة الانتشار",
+    "en": "Dispersion modeling",
+    "es": "Modelado de dispersión"
+  },
+  {
+    "ar": "جهاز قياس التلوث",
+    "en": "Contamination monitor",
+    "es": "Monitor de contaminación"
+  },
+  {
+    "ar": "مراقبة العاملين",
+    "en": "Personnel monitoring",
+    "es": "Monitoreo del personal"
+  },
+  {
+    "ar": "المراقبة الإشعاعية",
+    "en": "Radiological monitoring",
+    "es": "Monitoreo radiológico"
+  },
+  {
+    "ar": "مستوى الإشعاع",
+    "en": "Radiation level",
+    "es": "Nivel de radiación"
+  },
+  {
+    "ar": "سحابة إشعاعية",
+    "en": "Radioactive plume",
+    "es": "Nube radiactiva"
+  },
+  {
+    "ar": "خطة احتواء الطوارئ",
+    "en": "Emergency containment plan",
+    "es": "Plan de contención"
+  },
+  {
+    "ar": "خطة الطوارئ النووية",
+    "en": "Nuclear emergency plan",
+    "es": "Plan de emergencia nuclear"
+  },
+  {
+    "ar": "تخطيط الطوارئ",
+    "en": "Emergency planning",
+    "es": "Planificación de emergencia"
+  },
+  {
+    "ar": "الوقاية من الإشعاع",
+    "en": "Radiation shielding",
+    "es": "Protección contra la radiación"
+  },
+  {
+    "ar": "حماية العاملين",
+    "en": "Occupational radiation protection",
+    "es": "Protección ocupacional"
+  },
+  {
+    "ar": "حماية الجمهور",
+    "en": "Public protection",
+    "es": "Protección pública"
+  },
+  {
+    "ar": "الحماية من الإشعاع",
+    "en": "Radiation protection",
+    "es": "Protección radiológica"
+  },
+  {
+    "ar": "بروتوكول الطوارئ النووية",
+    "en": "Nuclear emergency protocol",
+    "es": "Protocolo de emergencia nuclear"
+  },
+  {
+    "ar": "إشعاع",
+    "en": "Radiation",
+    "es": "Radiación"
+  },
+  {
+    "ar": "إشعاع مؤين",
+    "en": "Ionizing radiation",
+    "es": "Radiación ionizante"
+  },
+  {
+    "ar": "إشعاع نووي",
+    "en": "Nuclear radiation",
+    "es": "Radiación nuclear"
+  },
+  {
+    "ar": "مفاعل نووي",
+    "en": "Nuclear reactor",
+    "es": "Reactor nuclear"
+  },
+  {
+    "ar": "استعادة الوضع الطبيعي",
+    "en": "Recovery",
+    "es": "Recuperación"
+  },
+  {
+    "ar": "إعادة التأهيل البيئي",
+    "en": "Environmental remediation",
+    "es": "Rehabilitación ambiental"
+  },
+  {
+    "ar": "نفايات نووية",
+    "en": "Nuclear waste",
+    "es": "Residuos nucleares"
+  },
+  {
+    "ar": "الاستجابة للطوارئ النووية",
+    "en": "Nuclear emergency response",
+    "es": "Respuesta a emergencias nucleares"
+  },
+  {
+    "ar": "خطر إشعاعي",
+    "en": "Radiological risk",
+    "es": "Riesgo radiológico"
+  },
+  {
+    "ar": "غرفة التحكم النووية",
+    "en": "Nuclear control room",
+    "es": "Sala de control nuclear"
+  },
+  {
+    "ar": "أمن نووي",
+    "en": "Nuclear security",
+    "es": "Seguridad física nuclear"
+  },
+  {
+    "ar": "أمان نووي",
+    "en": "Nuclear safety",
+    "es": "Seguridad nuclear"
+  },
+  {
+    "ar": "مقياس السيفرت",
+    "en": "Sievert (Sv)",
+    "es": "Sievert"
+  },
+  {
+    "ar": "محاكاة حادث نووي",
+    "en": "Nuclear simulation",
+    "es": "Simulación nuclear"
+  },
+  {
+    "ar": "بدلة واقية من الإشعاع",
+    "en": "Radiation protective suit",
+    "es": "Traje de protección"
+  },
+  {
+    "ar": "نقل المواد المشعة",
+    "en": "Transport of radioactive materials",
+    "es": "Transporte de material radiactivo"
+  },
+  {
+    "ar": "نصف العمر الإشعاعي",
+    "en": "Half-life",
+    "es": "Vida media"
+  },
+  {
+    "ar": "منطقة ملوثة إشعاعياً",
+    "en": "Radioactively contaminated area",
+    "es": "Zona contaminada"
+  },
+  {
+    "ar": "منطقة السيطرة",
+    "en": "Controlled area",
+    "es": "Zona controlada"
+  },
+  {
+    "ar": "منطقة العزل الإشعاعي",
+    "en": "Radiological isolation zone",
+    "es": "Zona de aislamiento"
+  },
+  {
+    "ar": "منطقة الحظر",
+    "en": "Exclusion zone",
+    "es": "Zona de exclusión"
+  },
+  {
+    "ar": "منطقة الإشراف",
+    "en": "Supervised area",
+    "es": "Zona supervisada"
+  },
+  {
+    "ar": "استقبال الحالات",
+    "en": "Patient admission",
+    "es": "Admisión de pacientes"
+  },
+  {
+    "ar": "عزل طبي",
+    "en": "Medical isolation",
+    "es": "Aislamiento médico"
+  },
+  {
+    "ar": "صدمة تحسسية",
+    "en": "Anaphylaxis",
+    "es": "Anafilaxia"
+  },
+  {
+    "ar": "دعم نفسي",
+    "en": "Psychological support",
+    "es": "Apoyo psicológico"
+  },
+  {
+    "ar": "رعاية طويلة الأمد",
+    "en": "Long-term care",
+    "es": "Atención a largo plazo"
+  },
+  {
+    "ar": "رعاية فورية",
+    "en": "Immediate care",
+    "es": "Atención inmediata"
+  },
+  {
+    "ar": "رعاية ما قبل المستشفى",
+    "en": "Prehospital care",
+    "es": "Atención prehospitalaria"
+  },
+  {
+    "ar": "تفشي مرض",
+    "en": "Outbreak",
+    "es": "Brote"
+  },
+  {
+    "ar": "صدمة طبية",
+    "en": "Medical shock",
+    "es": "Choque"
+  },
+  {
+    "ar": "صدمة نزفية",
+    "en": "Hemorrhagic shock",
+    "es": "Choque hemorrágico"
+  },
+  {
+    "ar": "صدمة إنتانية",
+    "en": "Septic shock",
+    "es": "Choque séptico"
+  },
+  {
+    "ar": "جراحة طارئة",
+    "en": "Emergency surgery",
+    "es": "Cirugía de emergencia"
+  },
+  {
+    "ar": "تنسيق طبي",
+    "en": "Medical coordination",
+    "es": "Coordinación médica"
+  },
+  {
+    "ar": "حجر صحي",
+    "en": "Quarantine",
+    "es": "Cuarentena"
+  },
+  {
+    "ar": "رعاية ما بعد الطوارئ",
+    "en": "Post-emergency care",
+    "es": "Cuidados posteriores"
+  },
+  {
+    "ar": "صدمة كهربائية للقلب",
+    "en": "Defibrillation",
+    "es": "Desfibrilación"
+  },
+  {
+    "ar": "جهاز صدمات القلب",
+    "en": "Defibrillator (AED)",
+    "es": "Desfibrilador"
+  },
+  {
+    "ar": "تطهير",
+    "en": "Disinfection",
+    "es": "Desinfección"
+  },
+  {
+    "ar": "تشخيص طبي",
+    "en": "Medical diagnosis",
+    "es": "Diagnóstico"
+  },
+  {
+    "ar": "توعية صحية",
+    "en": "Health education",
+    "es": "Educación sanitaria"
+  },
+  {
+    "ar": "رسم القلب",
+    "en": "ECG / EKG",
+    "es": "Electrocardiograma"
+  },
+  {
+    "ar": "طوارئ نسائية",
+    "en": "Obstetric emergencies",
+    "es": "Emergencias ginecológicas"
+  },
+  {
+    "ar": "طوارئ أطفال",
+    "en": "Pediatric emergencies",
+    "es": "Emergencias pediátricas"
+  },
+  {
+    "ar": "أمراض معدية",
+    "en": "Infectious diseases",
+    "es": "Enfermedades infecciosas"
+  },
+  {
+    "ar": "وباء",
+    "en": "Epidemic",
+    "es": "Epidemia"
+  },
+  {
+    "ar": "معدات معقمة",
+    "en": "Sterile equipment",
+    "es": "Equipo estéril"
+  },
+  {
+    "ar": "معدات طبية",
+    "en": "Medical equipment",
+    "es": "Equipo médico"
+  },
+  {
+    "ar": "فريق طبي",
+    "en": "Medical team",
+    "es": "Equipo médico"
+  },
+  {
+    "ar": "حالة حرجة",
+    "en": "Critical condition",
+    "es": "Estado crítico"
+  },
+  {
+    "ar": "حالة مستقرة",
+    "en": "Stable condition",
+    "es": "Estado estable"
+  },
+  {
+    "ar": "حالة غير مستقرة",
+    "en": "Unstable condition",
+    "es": "Estado inestable"
+  },
+  {
+    "ar": "تعقيم",
+    "en": "Sterilization",
+    "es": "Esterilización"
+  },
+  {
+    "ar": "تقييم الاستجابة الصحية",
+    "en": "Health response evaluation",
+    "es": "Evaluación de respuesta"
+  },
+  {
+    "ar": "تقييم أولي",
+    "en": "Primary assessment",
+    "es": "Evaluación primaria"
+  },
+  {
+    "ar": "تقييم ثانوي",
+    "en": "Secondary assessment",
+    "es": "Evaluación secundaria"
+  },
+  {
+    "ar": "فحص طبي",
+    "en": "Medical examination",
+    "es": "Examen médico"
+  },
+  {
+    "ar": "جبيرة",
+    "en": "Splint",
+    "es": "Férula"
+  },
+  {
+    "ar": "كسر",
+    "en": "Fracture",
+    "es": "Fractura"
+  },
+  {
+    "ar": "معدل ضربات القلب",
+    "en": "Heart rate",
+    "es": "Frecuencia cardíaca"
+  },
+  {
+    "ar": "إدارة الحالات",
+    "en": "Case management",
+    "es": "Gestión de casos"
+  },
+  {
+    "ar": "إدارة الكوارث الصحية",
+    "en": "Health disaster management",
+    "es": "Gestión de desastres sanitarios"
+  },
+  {
+    "ar": "سكر الدم",
+    "en": "Blood glucose",
+    "es": "Glucosa en sangre"
+  },
+  {
+    "ar": "قفازات طبية",
+    "en": "Medical gloves",
+    "es": "Guantes médicos"
+  },
+  {
+    "ar": "إرشادات علاجية",
+    "en": "Clinical guidelines",
+    "es": "Guías clínicas"
+  },
+  {
+    "ar": "نزيف",
+    "en": "Hemorrhage",
+    "es": "Hemorragia"
+  },
+  {
+    "ar": "نزيف خارجي",
+    "en": "External bleeding",
+    "es": "Hemorragia externa"
+  },
+  {
+    "ar": "نزيف داخلي",
+    "en": "Internal bleeding",
+    "es": "Hemorragia interna"
+  },
+  {
+    "ar": "سجل طبي",
+    "en": "Medical record",
+    "es": "Historial médico"
+  },
+  {
+    "ar": "مستشفى",
+    "en": "Hospital",
+    "es": "Hospital"
+  },
+  {
+    "ar": "عدوى",
+    "en": "Infection",
+    "es": "Infección"
+  },
+  {
+    "ar": "عدوى تنفسية",
+    "en": "Respiratory infection",
+    "es": "Infección respiratoria"
+  },
+  {
+    "ar": "بلاغ طبي",
+    "en": "Medical report",
+    "es": "Informe médico"
+  },
+  {
+    "ar": "تثبيت الكسور",
+    "en": "Immobilization",
+    "es": "Inmovilización"
+  },
+  {
+    "ar": "تسمم",
+    "en": "Poisoning",
+    "es": "Intoxicación"
+  },
+  {
+    "ar": "إصابة",
+    "en": "Injury",
+    "es": "Lesión"
+  },
+  {
+    "ar": "إصابة العمود الفقري",
+    "en": "Spinal injury",
+    "es": "Lesión espinal"
+  },
+  {
+    "ar": "تدبير الإصابات",
+    "en": "Injury management",
+    "es": "Manejo de lesiones"
+  },
+  {
+    "ar": "كمامة طبية",
+    "en": "Medical mask",
+    "es": "Mascarilla médica"
+  },
+  {
+    "ar": "مراقبة المريض",
+    "en": "Patient monitoring",
+    "es": "Monitorización del paciente"
+  },
+  {
+    "ar": "انسداد مجرى الهواء",
+    "en": "Airway obstruction",
+    "es": "Obstrucción de la vía aérea"
+  },
+  {
+    "ar": "أكسجين طبي",
+    "en": "Medical oxygen",
+    "es": "Oxígeno medicinal"
+  },
+  {
+    "ar": "جهاز قياس الأكسجين",
+    "en": "Pulse oximeter",
+    "es": "Oxímetro"
+  },
+  {
+    "ar": "مريض",
+    "en": "Patient",
+    "es": "Paciente"
+  },
+  {
+    "ar": "جائحة",
+    "en": "Pandemic",
+    "es": "Pandemia"
+  },
+  {
+    "ar": "توقف القلب",
+    "en": "Cardiac arrest",
+    "es": "Paro cardíaco"
+  },
+  {
+    "ar": "فقدان الوعي",
+    "en": "Loss of consciousness",
+    "es": "Pérdida de conciencia"
+  },
+  {
+    "ar": "خطة طوارئ صحية",
+    "en": "Health emergency plan",
+    "es": "Plan de emergencia sanitaria"
+  },
+  {
+    "ar": "ضغط الدم",
+    "en": "Blood pressure",
+    "es": "Presión arterial"
+  },
+  {
+    "ar": "الوقاية الصحية",
+    "en": "Health prevention",
+    "es": "Prevención sanitaria"
+  },
+  {
+    "ar": "إسعافات أولية",
+    "en": "First aid",
+    "es": "Primeros auxilios"
+  },
+  {
+    "ar": "بروتوكول طبي",
+    "en": "Medical protocol",
+    "es": "Protocolo médico"
+  },
+  {
+    "ar": "حروق",
+    "en": "Burns",
+    "es": "Quemaduras"
+  },
+  {
+    "ar": "إنعاش متقدم",
+    "en": "Advanced resuscitation",
+    "es": "Reanimación avanzada"
+  },
+  {
+    "ar": "الإنعاش القلبي الرئوي",
+    "en": "Cardiopulmonary resuscitation (CPR)",
+    "es": "Reanimación cardiopulmonar"
+  },
+  {
+    "ar": "إنعاش حديثي الولادة",
+    "en": "Neonatal resuscitation",
+    "es": "Reanimación neonatal"
+  },
+  {
+    "ar": "سجل الحالات",
+    "en": "Patient registry",
+    "es": "Registro de pacientes"
+  },
+  {
+    "ar": "إعادة التأهيل",
+    "en": "Rehabilitation",
+    "es": "Rehabilitación"
+  },
+  {
+    "ar": "الاستجابة الطبية للطوارئ",
+    "en": "Emergency medical response",
+    "es": "Respuesta médica de emergencia"
+  },
+  {
+    "ar": "وحدة الطوارئ",
+    "en": "Emergency department",
+    "es": "Sala de urgencias"
+  },
+  {
+    "ar": "إنقاذ الحياة",
+    "en": "Life-saving",
+    "es": "Salvamento de vidas"
+  },
+  {
+    "ar": "تشبع الأكسجين",
+    "en": "Oxygen saturation",
+    "es": "Saturación de oxígeno"
+  },
+  {
+    "ar": "متابعة المرضى",
+    "en": "Patient follow-up",
+    "es": "Seguimiento"
+  },
+  {
+    "ar": "عدوى دموية",
+    "en": "Sepsis",
+    "es": "Sepsis"
+  },
+  {
+    "ar": "خدمات الطوارئ الطبية",
+    "en": "Emergency Medical Services (EMS)",
+    "es": "Servicios médicos de emergencia"
+  },
+  {
+    "ar": "دعم الحياة المتقدم",
+    "en": "Advanced Life Support (ALS)",
+    "es": "Soporte vital avanzado"
+  },
+  {
+    "ar": "دعم الحياة الأساسي",
+    "en": "Basic Life Support (BLS)",
+    "es": "Soporte vital básico"
+  },
+  {
+    "ar": "نقل بالإسعاف",
+    "en": "Ambulance transport",
+    "es": "Transporte en ambulancia"
+  },
+  {
+    "ar": "نقل آمن",
+    "en": "Safe transport",
+    "es": "Transporte seguro"
+  },
+  {
+    "ar": "نقل المرضى",
+    "en": "Patient transport",
+    "es": "Traslado de pacientes"
+  },
+  {
+    "ar": "نقل عاجل",
+    "en": "Emergency transport",
+    "es": "Traslado urgente"
+  },
+  {
+    "ar": "علاج طارئ",
+    "en": "Emergency treatment",
+    "es": "Tratamiento de emergencia"
+  },
+  {
+    "ar": "صدمة نفسية",
+    "en": "Psychological trauma",
+    "es": "Trauma psicológico"
+  },
+  {
+    "ar": "فرز طبي",
+    "en": "Medical triage",
+    "es": "Triaje médico"
+  },
+  {
+    "ar": "وحدة العناية المركزة",
+    "en": "Intensive Care Unit (ICU)",
+    "es": "Unidad de cuidados intensivos"
+  },
+  {
+    "ar": "تطعيم",
+    "en": "Vaccination",
+    "es": "Vacunación"
+  },
+  {
+    "ar": "ضماد",
+    "en": "Bandaging",
+    "es": "Vendaje"
+  },
+  {
+    "ar": "جهاز تنفس صناعي",
+    "en": "Mechanical ventilator",
+    "es": "Ventilador mecánico"
+  },
+  {
+    "ar": "مجرى الهواء",
+    "en": "Airway",
+    "es": "Vía aérea"
+  },
+  {
+    "ar": "ترصد صحي",
+    "en": "Epidemiological surveillance",
+    "es": "Vigilancia epidemiológica"
+  },
+  {
+    "ar": "إصابة عمل",
+    "en": "Workplace injury",
+    "es": "Accidente laboral"
+  },
+  {
+    "ar": "تراكم الغازات",
+    "en": "Gas accumulation",
+    "es": "Acumulación de gases"
+  },
+  {
+    "ar": "عزل الطاقة",
+    "en": "Lockout/Tagout (LOTO)",
+    "es": "Aislamiento de energía"
+  },
+  {
+    "ar": "إنذار تسرب الغاز",
+    "en": "Gas alarm",
+    "es": "Alarma de gas"
+  },
+  {
+    "ar": "إنذار الحريق",
+    "en": "Fire alarm",
+    "es": "Alarma de incendio"
+  },
+  {
+    "ar": "تخزين آمن",
+    "en": "Safe storage",
+    "es": "Almacenamiento seguro"
+  },
+  {
+    "ar": "ضغط مرتفع",
+    "en": "High pressure",
+    "es": "Alta presión"
+  },
+  {
+    "ar": "حرارة مرتفعة",
+    "en": "High temperature",
+    "es": "Alta temperatura"
+  },
+  {
+    "ar": "تحليل مخاطر الحريق",
+    "en": "Fire risk analysis",
+    "es": "Análisis de riesgos"
+  },
+  {
+    "ar": "قوس كهربائي",
+    "en": "Arc flash",
+    "es": "Arco eléctrico"
+  },
+  {
+    "ar": "اختناق",
+    "en": "Asphyxiation",
+    "es": "Asfixia"
+  },
+  {
+    "ar": "درجة الاشتعال الذاتي",
+    "en": "Autoignition temperature",
+    "es": "Autoignición"
+  },
+  {
+    "ar": "مضخة حريق",
+    "en": "Fire pump",
+    "es": "Bomba contra incendios"
+  },
+  {
+    "ar": "رجال الإطفاء",
+    "en": "Firefighters",
+    "es": "Bomberos"
+  },
+  {
+    "ar": "تدريب السلامة",
+    "en": "Safety training",
+    "es": "Capacitación en seguridad"
+  },
+  {
+    "ar": "بكرة حريق",
+    "en": "Fire hose reel",
+    "es": "Carrete de manguera"
+  },
+  {
+    "ar": "إغلاق طارئ",
+    "en": "Emergency shutdown",
+    "es": "Cierre de emergencia"
+  },
+  {
+    "ar": "تصنيف الحرائق",
+    "en": "Fire classification",
+    "es": "Clasificación de incendios"
+  },
+  {
+    "ar": "الاحتراق",
+    "en": "Combustion",
+    "es": "Combustión"
+  },
+  {
+    "ar": "احتواء الحريق",
+    "en": "Fire containment",
+    "es": "Contención de incendios"
+  },
+  {
+    "ar": "ثقافة السلامة",
+    "en": "Safety culture",
+    "es": "Cultura de seguridad"
+  },
+  {
+    "ar": "كثافة الدخان",
+    "en": "Smoke density",
+    "es": "Densidad del humo"
+  },
+  {
+    "ar": "تسرب مواد كيميائية",
+    "en": "Chemical spill",
+    "es": "Derrame químico"
+  },
+  {
+    "ar": "كشف مبكر للحريق",
+    "en": "Early fire detection",
+    "es": "Detección temprana"
+  },
+  {
+    "ar": "كاشف حرارة",
+    "en": "Heat detector",
+    "es": "Detector de calor"
+  },
+  {
+    "ar": "كاشف غاز",
+    "en": "Gas detector",
+    "es": "Detector de gas"
+  },
+  {
+    "ar": "كاشف دخان",
+    "en": "Smoke detector",
+    "es": "Detector de humo"
+  },
+  {
+    "ar": "معدات مكافحة الحرائق",
+    "en": "Firefighting equipment",
+    "es": "Equipo de extinción"
+  },
+  {
+    "ar": "معدات الوقاية الشخصية",
+    "en": "Personal Protective Equipment (PPE)",
+    "es": "Equipo de protección personal"
+  },
+  {
+    "ar": "إخلاء",
+    "en": "Evacuation",
+    "es": "Evacuación"
+  },
+  {
+    "ar": "إخلاء المصنع",
+    "en": "Industrial evacuation",
+    "es": "Evacuación industrial"
+  },
+  {
+    "ar": "تقييم مخاطر الحريق",
+    "en": "Fire risk assessment",
+    "es": "Evaluación de riesgos"
+  },
+  {
+    "ar": "تقييم السلامة",
+    "en": "Safety assessment",
+    "es": "Evaluación de seguridad"
+  },
+  {
+    "ar": "تقييم ما بعد الحريق",
+    "en": "Post-fire assessment",
+    "es": "Evaluación posterior"
+  },
+  {
+    "ar": "انفجار",
+    "en": "Explosion",
+    "es": "Explosión"
+  },
+  {
+    "ar": "مكافحة الحرائق",
+    "en": "Firefighting",
+    "es": "Extinción de incendios"
+  },
+  {
+    "ar": "طفاية حريق ثاني أكسيد الكربون CO2",
+    "en": "CO2 extinguisher",
+    "es": "Extintor de CO2"
+  },
+  {
+    "ar": "طفاية رغوية",
+    "en": "Foam extinguisher",
+    "es": "Extintor de espuma"
+  },
+  {
+    "ar": "طفاية حريق",
+    "en": "Fire extinguisher",
+    "es": "Extintor de incendios"
+  },
+  {
+    "ar": "طفاية بودرة",
+    "en": "Dry powder extinguisher",
+    "es": "Extintor de polvo"
+  },
+  {
+    "ar": "مصدر مياه الحريق",
+    "en": "Fire water supply",
+    "es": "Fuente de agua"
+  },
+  {
+    "ar": "تسرب غاز",
+    "en": "Gas leak",
+    "es": "Fuga de gas"
+  },
+  {
+    "ar": "غاز قابل للاشتعال",
+    "en": "Flammable gas",
+    "es": "Gas inflamable"
+  },
+  {
+    "ar": "إدارة المواد الخطرة",
+    "en": "HAZMAT management",
+    "es": "Gestión de materiales peligrosos"
+  },
+  {
+    "ar": "نظام هيدرنت",
+    "en": "Fire hydrant",
+    "es": "Hidrante"
+  },
+  {
+    "ar": "دخان",
+    "en": "Smoke",
+    "es": "Humo"
+  },
+  {
+    "ar": "الاشتعال",
+    "en": "Ignition",
+    "es": "Ignición"
+  },
+  {
+    "ar": "حريق",
+    "en": "Fire",
+    "es": "Incendio"
+  },
+  {
+    "ar": "حريق من الفئة A",
+    "en": "Class A fire",
+    "es": "Incendio clase A"
+  },
+  {
+    "ar": "حريق من الفئة B",
+    "en": "Class B fire",
+    "es": "Incendio clase B"
+  },
+  {
+    "ar": "حريق من الفئة C",
+    "en": "Class C fire",
+    "es": "Incendio clase C"
+  },
+  {
+    "ar": "حريق من الفئة D",
+    "en": "Class D fire",
+    "es": "Incendio clase D"
+  },
+  {
+    "ar": "حريق من الفئة K",
+    "en": "Class K fire",
+    "es": "Incendio clase K"
+  },
+  {
+    "ar": "حريق كهربائي",
+    "en": "Electrical fire",
+    "es": "Incendio eléctrico"
+  },
+  {
+    "ar": "تقرير الحريق",
+    "en": "Fire incident report",
+    "es": "Informe de incendio"
+  },
+  {
+    "ar": "استنشاق الدخان",
+    "en": "Smoke inhalation",
+    "es": "Inhalación de humo"
+  },
+  {
+    "ar": "تفتيش السلامة",
+    "en": "Safety inspection",
+    "es": "Inspección de seguridad"
+  },
+  {
+    "ar": "إصابات الحريق",
+    "en": "Burn injuries",
+    "es": "Lesiones por quemaduras"
+  },
+  {
+    "ar": "خرطوم إطفاء",
+    "en": "Fire hose",
+    "es": "Manguera contra incendios"
+  },
+  {
+    "ar": "مواد متفجرة",
+    "en": "Explosive materials",
+    "es": "Materiales explosivos"
+  },
+  {
+    "ar": "مواد قابلة للاشتعال",
+    "en": "Flammable materials",
+    "es": "Materiales inflamables"
+  },
+  {
+    "ar": "مواد خطرة",
+    "en": "Hazardous materials (HAZMAT)",
+    "es": "Materiales peligrosos"
+  },
+  {
+    "ar": "مراقبة السلامة",
+    "en": "Safety monitoring",
+    "es": "Monitoreo de seguridad"
+  },
+  {
+    "ar": "مسؤول السلامة",
+    "en": "Safety officer",
+    "es": "Oficial de seguridad"
+  },
+  {
+    "ar": "لوحة التحكم في الحريق",
+    "en": "Fire control panel",
+    "es": "Panel de control"
+  },
+  {
+    "ar": "نظام إيقاف الطوارئ",
+    "en": "Emergency shutdown system (ESD)",
+    "es": "Parada de emergencia"
+  },
+  {
+    "ar": "تصريح عمل",
+    "en": "Work permit",
+    "es": "Permiso de trabajo"
+  },
+  {
+    "ar": "تصريح العمل الساخن",
+    "en": "Hot work permit",
+    "es": "Permiso de trabajo en caliente"
+  },
+  {
+    "ar": "خطة مكافحة الحرائق",
+    "en": "Fire protection plan",
+    "es": "Plan contra incendios"
+  },
+  {
+    "ar": "خطة الطوارئ",
+    "en": "Emergency plan",
+    "es": "Plan de emergencia"
+  },
+  {
+    "ar": "خطة الطوارئ الصناعية",
+    "en": "Industrial emergency plan",
+    "es": "Plan de emergencia industrial"
+  },
+  {
+    "ar": "خطة الإخلاء",
+    "en": "Evacuation plan",
+    "es": "Plan de evacuación"
+  },
+  {
+    "ar": "الوقاية من الحرائق",
+    "en": "Fire prevention",
+    "es": "Prevención de incendios"
+  },
+  {
+    "ar": "انتشار الحريق",
+    "en": "Fire spread",
+    "es": "Propagación del fuego"
+  },
+  {
+    "ar": "باب مقاوم للحريق",
+    "en": "Fire-rated door",
+    "es": "Puerta cortafuego"
+  },
+  {
+    "ar": "تأريض كهربائي",
+    "en": "Grounding",
+    "es": "Puesta a tierra"
+  },
+  {
+    "ar": "نقطة اشتعال",
+    "en": "Flash point",
+    "es": "Punto de inflamación"
+  },
+  {
+    "ar": "نقطة التجمع",
+    "en": "Assembly point",
+    "es": "Punto de reunión"
+  },
+  {
+    "ar": "سجل الحوادث",
+    "en": "Incident log",
+    "es": "Registro de incidentes"
+  },
+  {
+    "ar": "استجابة للحريق",
+    "en": "Fire emergency response",
+    "es": "Respuesta a incendios"
+  },
+  {
+    "ar": "خطر الانفجار",
+    "en": "Explosion hazard",
+    "es": "Riesgo de explosión"
+  },
+  {
+    "ar": "خطر الحريق",
+    "en": "Fire hazard",
+    "es": "Riesgo de incendio"
+  },
+  {
+    "ar": "خطر كهربائي",
+    "en": "Electrical hazard",
+    "es": "Riesgo eléctrico"
+  },
+  {
+    "ar": "مخاطر صناعية",
+    "en": "Industrial hazards",
+    "es": "Riesgos industriales"
+  },
+  {
+    "ar": "غرفة مضخات الحريق",
+    "en": "Fire pump room",
+    "es": "Sala de bombas"
+  },
+  {
+    "ar": "مخرج طوارئ",
+    "en": "Emergency exit",
+    "es": "Salida de emergencia"
+  },
+  {
+    "ar": "السلامة الصناعية",
+    "en": "Industrial safety",
+    "es": "Seguridad industrial"
+  },
+  {
+    "ar": "تدريب الإخلاء",
+    "en": "Evacuation drill",
+    "es": "Simulacro de evacuación"
+  },
+  {
+    "ar": "نظام إنذار مركزي",
+    "en": "Central fire alarm system",
+    "es": "Sistema de alarma central"
+  },
+  {
+    "ar": "نظام إنذار يدوي",
+    "en": "Manual fire alarm system",
+    "es": "Sistema de alarma manual"
+  },
+  {
+    "ar": "نظام إطفاء تلقائي",
+    "en": "Automatic fire suppression system",
+    "es": "Sistema de extinción automática"
+  },
+  {
+    "ar": "نظام رشاشات المياه",
+    "en": "Fire sprinkler system",
+    "es": "Sistema de rociadores"
+  },
+  {
+    "ar": "نظام إدارة السلامة",
+    "en": "Safety management system",
+    "es": "Sistema de seguridad"
+  },
+  {
+    "ar": "إخماد الحريق",
+    "en": "Fire suppression",
+    "es": "Supresión de incendios"
+  },
+  {
+    "ar": "خزان ضغط",
+    "en": "Pressure vessel",
+    "es": "Tanque de presión"
+  },
+  {
+    "ar": "أعمال ساخنة",
+    "en": "Hot work",
+    "es": "Trabajo en caliente"
+  },
+  {
+    "ar": "صمام أمان",
+    "en": "Safety valve",
+    "es": "Válvula de seguridad"
+  },
+  {
+    "ar": "تهوية صناعية",
+    "en": "Industrial ventilation",
+    "es": "Ventilación industrial"
+  },
+  {
+    "ar": "منطقة خطر",
+    "en": "Hazard zone",
+    "es": "Zona de riesgo"
+  },
+  {
+    "ar": "مياه شرب آمنة",
+    "en": "Safe drinking water",
+    "es": "Agua potable segura"
+  },
+  {
+    "ar": "إنذار تسونامي",
+    "en": "Tsunami warning",
+    "es": "Alerta de tsunami"
+  },
+  {
+    "ar": "الإنذار المبكر",
+    "en": "Early warning",
+    "es": "Alerta temprana"
+  },
+  {
+    "ar": "غذاء طارئ",
+    "en": "Emergency food",
+    "es": "Alimentos de emergencia"
+  },
+  {
+    "ar": "تحليل الدروس المستفادة",
+    "en": "Lessons learned analysis",
+    "es": "Análisis de lecciones aprendidas"
+  },
+  {
+    "ar": "تحليل المخاطر",
+    "en": "Risk analysis",
+    "es": "Análisis de riesgos"
+  },
+  {
+    "ar": "دعم لوجستي للطوارئ",
+    "en": "Emergency logistics support",
+    "es": "Apoyo logístico de emergencia"
+  },
+  {
+    "ar": "انهيارات ثلجية",
+    "en": "Avalanches",
+    "es": "Avalanchas"
+  },
+  {
+    "ar": "مساعدات إنسانية",
+    "en": "Humanitarian aid",
+    "es": "Ayuda humanitaria"
+  },
+  {
+    "ar": "سلاسل الإمداد الطارئة",
+    "en": "Emergency supply chains",
+    "es": "Cadenas de suministro de emergencia"
+  },
+  {
+    "ar": "مخيمات اللاجئين",
+    "en": "Refugee camps",
+    "es": "Campamentos de refugiados"
+  },
+  {
+    "ar": "رسم الخرائط الطارئة",
+    "en": "Emergency mapping",
+    "es": "Cartografía de emergencia"
+  },
+  {
+    "ar": "مركز عمليات الطوارئ",
+    "en": "Emergency Operations Center (EOC)",
+    "es": "Centro de operaciones de emergencia"
+  },
+  {
+    "ar": "مركز الإغاثة",
+    "en": "Relief center",
+    "es": "Centro de socorro"
+  },
+  {
+    "ar": "طقس متطرف",
+    "en": "Extreme weather",
+    "es": "Clima extremo"
+  },
+  {
+    "ar": "انهيار مبانٍ",
+    "en": "Building collapse",
+    "es": "Colapso de edificios"
+  },
+  {
+    "ar": "انهيار سد",
+    "en": "Dam failure",
+    "es": "Colapso de presa"
+  },
+  {
+    "ar": "الاتصالات في الكوارث",
+    "en": "Disaster communications",
+    "es": "Comunicaciones en desastres"
+  },
+  {
+    "ar": "تنسيق الإغاثة",
+    "en": "Relief coordination",
+    "es": "Coordinación de socorro"
+  },
+  {
+    "ar": "تنسيق دولي",
+    "en": "International coordination",
+    "es": "Coordinación internacional"
+  },
+  {
+    "ar": "انقطاع الاتصالات",
+    "en": "Communication outage",
+    "es": "Corte de comunicaciones"
+  },
+  {
+    "ar": "انقطاع الكهرباء",
+    "en": "Power outage",
+    "es": "Corte de electricidad"
+  },
+  {
+    "ar": "أضرار البنية التحتية",
+    "en": "Infrastructure damage",
+    "es": "Daños en la infraestructura"
+  },
+  {
+    "ar": "الدفاع المدني",
+    "en": "Civil defense",
+    "es": "Defensa civil"
+  },
+  {
+    "ar": "تدهور بيئي",
+    "en": "Environmental degradation",
+    "es": "Degradación ambiental"
+  },
+  {
+    "ar": "بناء القدرات",
+    "en": "Capacity building",
+    "es": "Desarrollo de capacidades"
+  },
+  {
+    "ar": "التنمية المستدامة بعد الكارثة",
+    "en": "desastre -Post-disaster sustainable development",
+    "es": "Desarrollo sostenible post"
+  },
+  {
+    "ar": "كارثة طبيعية",
+    "en": "Natural disaster",
+    "es": "Desastre natural"
+  },
+  {
+    "ar": "تصحر",
+    "en": "Desertification",
+    "es": "Desertificación"
+  },
+  {
+    "ar": "انهيار أرضي",
+    "en": "Landslide",
+    "es": "Deslizamiento de tierra"
+  },
+  {
+    "ar": "مهجرون داخليًا",
+    "en": "Internally displaced persons (IDPs)",
+    "es": "Desplazados internos"
+  },
+  {
+    "ar": "نزوح سكاني",
+    "en": "Population displacement",
+    "es": "Desplazamiento poblacional"
+  },
+  {
+    "ar": "توزيع المساعدات",
+    "en": "Aid distribution",
+    "es": "Distribución de ayuda"
+  },
+  {
+    "ar": "فرق البحث والإنقاذ",
+    "en": "Search and Rescue (SAR) teams",
+    "es": "Equipos de búsqueda y rescate"
+  },
+  {
+    "ar": "فرق الإغاثة",
+    "en": "Relief teams",
+    "es": "Equipos de socorro"
+  },
+  {
+    "ar": "تآكل التربة",
+    "en": "Soil erosion",
+    "es": "Erosión del suelo"
+  },
+  {
+    "ar": "محطة رصد زلازل",
+    "en": "Seismic station",
+    "es": "Estación sísmica"
+  },
+  {
+    "ar": "إخلاء",
+    "en": "Evacuation",
+    "es": "Evacuación"
+  },
+  {
+    "ar": "إجلاء جماعي",
+    "en": "Mass evacuation",
+    "es": "Evacuación masiva"
+  },
+  {
+    "ar": "تقييم الأضرار",
+    "en": "Damage assessment",
+    "es": "Evaluación de daños"
+  },
+  {
+    "ar": "تقييم الاحتياجات",
+    "en": "Needs assessment",
+    "es": "Evaluación de necesidades"
+  },
+  {
+    "ar": "تقييم المخاطر",
+    "en": "Risk assessment",
+    "es": "Evaluación de riesgos"
+  },
+  {
+    "ar": "تقييم المخاطر الطبيعية",
+    "en": "Natural risk assessment",
+    "es": "Evaluación de riesgos naturales"
+  },
+  {
+    "ar": "تقييم ما بعد الكارثة",
+    "en": "desastre -Post-disaster assessment",
+    "es": "Evaluación post"
+  },
+  {
+    "ar": "إدارة المخيمات",
+    "en": "Camp management",
+    "es": "Gestión de campamentos"
+  },
+  {
+    "ar": "إدارة الكوارث",
+    "en": "Disaster management",
+    "es": "Gestión de desastres"
+  },
+  {
+    "ar": "إدارة الطوارئ",
+    "en": "Emergency management",
+    "es": "Gestión de emergencias"
+  },
+  {
+    "ar": "إدارة المتطوعين",
+    "en": "Volunteer management",
+    "es": "Gestión de voluntarios"
+  },
+  {
+    "ar": "إدارة ما بعد الكارثة",
+    "en": "desastre- Post-disaster management",
+    "es": "Gestión post"
+  },
+  {
+    "ar": "إعصار",
+    "en": "Hurricane",
+    "es": "Huracán"
+  },
+  {
+    "ar": "صور الأقمار الصناعية",
+    "en": "Satellite imagery",
+    "es": "Imágenes satelitales"
+  },
+  {
+    "ar": "حرائق الغابات",
+    "en": "Wildfires",
+    "es": "Incendios forestales"
+  },
+  {
+    "ar": "فيضان ساحلي",
+    "en": "Coastal flooding",
+    "es": "Inundación costera"
+  },
+  {
+    "ar": "فيضان نهري",
+    "en": "River flood",
+    "es": "Inundación fluvial"
+  },
+  {
+    "ar": "فيضانات",
+    "en": "Floods",
+    "es": "Inundaciones"
+  },
+  {
+    "ar": "سيول مفاجئة",
+    "en": "Flash floods",
+    "es": "Inundaciones repentinas"
+  },
+  {
+    "ar": "خرائط المخاطر",
+    "en": "Risk maps",
+    "es": "Mapa de riesgos"
+  },
+  {
+    "ar": "خريطة مخاطر الكوارث",
+    "en": "Disaster risk map",
+    "es": "Mapa de riesgos de desastres"
+  },
+  {
+    "ar": "تحسين الجاهزية",
+    "en": "Preparedness improvement",
+    "es": "Mejora de la preparación"
+  },
+  {
+    "ar": "الحد من آثار الكوارث",
+    "en": "Disaster mitigation",
+    "es": "Mitigación de desastres"
+  },
+  {
+    "ar": "مراقبة الكوارث",
+    "en": "Disaster monitoring",
+    "es": "Monitoreo de desastres"
+  },
+  {
+    "ar": "رصد الزلازل",
+    "en": "Seismic monitoring",
+    "es": "Monitoreo sísmico"
+  },
+  {
+    "ar": "موجة حر",
+    "en": "Heatwave",
+    "es": "Olas de calor"
+  },
+  {
+    "ar": "موجة برد",
+    "en": "Cold wave",
+    "es": "Olas de frío"
+  },
+  {
+    "ar": "خطط الطوارئ",
+    "en": "Emergency plans",
+    "es": "Planes de emergencia"
+  },
+  {
+    "ar": "خطط الإخلاء",
+    "en": "Evacuation plans",
+    "es": "Planes de evacuación"
+  },
+  {
+    "ar": "خطط التعافي المبكر",
+    "en": "Early recovery plans",
+    "es": "Planes de recuperación temprana"
+  },
+  {
+    "ar": "الاستعداد للكوارث",
+    "en": "Disaster preparedness",
+    "es": "Preparación para desastres"
+  },
+  {
+    "ar": "حماية مدنية متقدمة",
+    "en": "Advanced civil protection",
+    "es": "Protección civil avanzada"
+  },
+  {
+    "ar": "برق",
+    "en": "Lightning",
+    "es": "Rayos"
+  },
+  {
+    "ar": "إعادة التشغيل",
+    "en": "Reactivation",
+    "es": "Reactivación"
+  },
+  {
+    "ar": "إعادة التوطين",
+    "en": "Resettlement",
+    "es": "Reasentamiento"
+  },
+  {
+    "ar": "إعادة الإعمار",
+    "en": "Reconstruction",
+    "es": "Reconstrucción"
+  },
+  {
+    "ar": "الحد من المخاطر",
+    "en": "Risk reduction",
+    "es": "Reducción del riesgo"
+  },
+  {
+    "ar": "لاجئون",
+    "en": "Refugees",
+    "es": "Refugiados"
+  },
+  {
+    "ar": "مأوى مؤقت",
+    "en": "Temporary shelter",
+    "es": "Refugio temporal"
+  },
+  {
+    "ar": "ملاجئ طوارئ",
+    "en": "Emergency shelters",
+    "es": "Refugios de emergencia"
+  },
+  {
+    "ar": "إعادة التأهيل",
+    "en": "Rehabilitation",
+    "es": "Rehabilitación"
+  },
+  {
+    "ar": "إنقاذ",
+    "en": "Rescue",
+    "es": "Rescate"
+  },
+  {
+    "ar": "المرونة في مواجهة الكوارث",
+    "en": "Disaster resilience",
+    "es": "Resiliencia ante desastres"
+  },
+  {
+    "ar": "المرونة المجتمعية",
+    "en": "Community resilience",
+    "es": "Resiliencia comunitaria"
+  },
+  {
+    "ar": "الاستجابة للكوارث",
+    "en": "Disaster response",
+    "es": "Respuesta a desastres"
+  },
+  {
+    "ar": "استجابة تسونامي",
+    "en": "Tsunami response",
+    "es": "Respuesta a tsunami"
+  },
+  {
+    "ar": "استجابة إنسانية",
+    "en": "Humanitarian response",
+    "es": "Respuesta humanitaria"
+  },
+  {
+    "ar": "استعادة الخدمات",
+    "en": "Service restoration",
+    "es": "Restauración de servicios"
+  },
+  {
+    "ar": "مخاطر طبيعية",
+    "en": "Natural hazards",
+    "es": "Riesgos naturales"
+  },
+  {
+    "ar": "جفاف",
+    "en": "Drought",
+    "es": "Sequía"
+  },
+  {
+    "ar": "نظام إدارة الكوارث",
+    "en": "Disaster management system",
+    "es": "Sistema de gestión de desastres"
+  },
+  {
+    "ar": "أنظمة الإنذار",
+    "en": "Warning systems",
+    "es": "Sistemas de alerta"
+  },
+  {
+    "ar": "نظم المعلومات الجغرافية",
+    "en": "GIS",
+    "es": "Sistemas de información geográfica"
+  },
+  {
+    "ar": "الإغاثة",
+    "en": "Relief",
+    "es": "Socorro"
+  },
+  {
+    "ar": "إمدادات الطوارئ",
+    "en": "Emergency supplies",
+    "es": "Suministros de emergencia"
+  },
+  {
+    "ar": "البقاء على قيد الحياة",
+    "en": "Survival",
+    "es": "Supervivencia"
+  },
+  {
+    "ar": "زلزال",
+    "en": "Earthquake",
+    "es": "Terremoto"
+  },
+  {
+    "ar": "عواصف رعدية",
+    "en": "Thunderstorms",
+    "es": "Tormentas eléctricas"
+  },
+  {
+    "ar": "موجات تسونامي",
+    "en": "Tsunami waves",
+    "es": "Tsunami"
+  },
+  {
+    "ar": "رياح شديدة",
+    "en": "Strong winds",
+    "es": "Vientos fuertes"
+  },
+  {
+    "ar": "متطوعون",
+    "en": "Volunteers",
+    "es": "Voluntarios"
+  },
+  {
+    "ar": "مناطق منكوبة",
+    "en": "Affected areas",
+    "es": "Zonas afectadas"
+  },
+  {
+    "ar": "حادث طيران",
+    "en": "Aviation accident",
+    "es": "Accidente aéreo"
+  },
+  {
+    "ar": "طائرة",
+    "en": "Aircraft",
+    "es": "Aeronave"
+  },
+  {
+    "ar": "مطار",
+    "en": "Airport",
+    "es": "Aeropuerto"
+  },
+  {
+    "ar": "إنذار الطائرة",
+    "en": "Aircraft warning",
+    "es": "Alarma de aeronave"
+  },
+  {
+    "ar": "إنذار طوارئ جوي",
+    "en": "Air emergency alert",
+    "es": "Alerta de emergencia aérea"
+  },
+  {
+    "ar": "تهديد أمني جوي",
+    "en": "Air security threat",
+    "es": "Amenaza aérea"
+  },
+  {
+    "ar": "دعم لوجستي جوي",
+    "en": "Air logistics support",
+    "es": "Apoyo logístico aéreo"
+  },
+  {
+    "ar": "اقتراب الطائرة",
+    "en": "Approach",
+    "es": "Aproximación"
+  },
+  {
+    "ar": "منطقة بحث وإنقاذ جوي",
+    "en": "Air search and rescue area",
+    "es": "Área SAR aérea"
+  },
+  {
+    "ar": "مقعد طائرة",
+    "en": "Aircraft seat",
+    "es": "Asiento de avión"
+  },
+  {
+    "ar": "هبوط",
+    "en": "Landing",
+    "es": "Aterrizaje"
+  },
+  {
+    "ar": "هبوط مرفوض",
+    "en": "Go-around",
+    "es": "Aterrizaje abortado"
+  },
+  {
+    "ar": "الهبوط الآلي",
+    "en": "Autoland",
+    "es": "Aterrizaje automático"
+  },
+  {
+    "ar": "هبوط اضطراري",
+    "en": "Emergency landing",
+    "es": "Aterrizaje de emergencia"
+  },
+  {
+    "ar": "هيئة الطيران المدني",
+    "en": "Civil aviation authority",
+    "es": "Autoridad de aviación civil"
+  },
+  {
+    "ar": "تصريح الإقلاع",
+    "en": "Takeoff clearance",
+    "es": "Autorización de despegue"
+  },
+  {
+    "ar": "طائرة إسعاف",
+    "en": "Air ambulance",
+    "es": "Avión ambulancia"
+  },
+  {
+    "ar": "طائرة تدريب",
+    "en": "Training aircraft",
+    "es": "Avión de entrenamiento"
+  },
+  {
+    "ar": "قمرة القيادة",
+    "en": "Cockpit",
+    "es": "Cabina de mando"
+  },
+  {
+    "ar": "ممر هبوط",
+    "en": "Taxiway",
+    "es": "Calle de rodaje"
+  },
+  {
+    "ar": "مركز التحكم الجوي",
+    "en": "Air control center",
+    "es": "Centro de control aéreo"
+  },
+  {
+    "ar": "قص الرياح",
+    "en": "Wind shear",
+    "es": "Cizalladura del viento"
+  },
+  {
+    "ar": "الدرجة الاقتصادية",
+    "en": "Economy class",
+    "es": "Clase económica"
+  },
+  {
+    "ar": "درجة رجال الأعمال",
+    "en": "Business class",
+    "es": "Clase ejecutiva"
+  },
+  {
+    "ar": "وقود الطيران",
+    "en": "Aviation fuel",
+    "es": "Combustible de aviación"
+  },
+  {
+    "ar": "وقود احتياطي",
+    "en": "Reserve fuel",
+    "es": "Combustible de reserva"
+  },
+  {
+    "ar": "أحوال جوية خطرة",
+    "en": "Hazardous weather",
+    "es": "Condiciones meteorológicas peligrosas"
+  },
+  {
+    "ar": "التفتيش الأمني",
+    "en": "Security screening",
+    "es": "Control de seguridad"
+  },
+  {
+    "ar": "مراقبة الحركة الجوية",
+    "en": "Air traffic control (ATC)",
+    "es": "Control de tráfico aéreo"
+  },
+  {
+    "ar": "تنسيق الطوارئ",
+    "en": "Emergency coordination",
+    "es": "Coordinación de emergencias"
+  },
+  {
+    "ar": "مساعد طيار",
+    "en": "Co-pilot",
+    "es": "Copiloto"
+  },
+  {
+    "ar": "ممر جوي",
+    "en": "Air corridor",
+    "es": "Corredor aéreo"
+  },
+  {
+    "ar": "الامتثال الجوي",
+    "en": "Aviation compliance",
+    "es": "Cumplimiento aeronáutico"
+  },
+  {
+    "ar": "إزالة الجليد",
+    "en": "De-icing",
+    "es": "Deshielo"
+  },
+  {
+    "ar": "إقلاع",
+    "en": "Takeoff",
+    "es": "Despegue"
+  },
+  {
+    "ar": "إقلاع مرفوض",
+    "en": "Rejected takeoff",
+    "es": "Despegue abortado"
+  },
+  {
+    "ar": "انحراف عن المسار",
+    "en": "Route deviation",
+    "es": "Desviación de ruta"
+  },
+  {
+    "ar": "تحويل مسار الرحلة",
+    "en": "Flight diversion",
+    "es": "Desvío de vuelo"
+  },
+  {
+    "ar": "صعود الطائرة",
+    "en": "Boarding",
+    "es": "Embarque"
+  },
+  {
+    "ar": "تدريب الطيارين",
+    "en": "Pilot training",
+    "es": "Entrenamiento de pilotos"
+  },
+  {
+    "ar": "أمتعة",
+    "en": "Baggage",
+    "es": "Equipaje"
+  },
+  {
+    "ar": "أمتعة مفقودة",
+    "en": "Lost baggage",
+    "es": "Equipaje perdido"
+  },
+  {
+    "ar": "إخلاء طائرة",
+    "en": "Aircraft evacuation",
+    "es": "Evacuación de aeronave"
+  },
+  {
+    "ar": "إخلاء مطار",
+    "en": "Airport evacuation",
+    "es": "Evacuación del aeropuerto"
+  },
+  {
+    "ar": "إسعاف جوي",
+    "en": "Air medical evacuation (MEDEVAC)",
+    "es": "Evacuación médica aérea"
+  },
+  {
+    "ar": "تقييم الحادث الجوي",
+    "en": "Aviation incident assessment",
+    "es": "Evaluación de incidente aéreo"
+  },
+  {
+    "ar": "عطل محرك",
+    "en": "Engine failure",
+    "es": "Falla de motor"
+  },
+  {
+    "ar": "إنذار كاذب",
+    "en": "False alarm",
+    "es": "Falsa alarma"
+  },
+  {
+    "ar": "جليد الطائرات",
+    "en": "Aircraft icing",
+    "es": "Formación de hielo"
+  },
+  {
+    "ar": "إدارة المطارات",
+    "en": "Airport management",
+    "es": "Gestión aeroportuaria"
+  },
+  {
+    "ar": "إدارة الأزمات الجوية",
+    "en": "Aviation crisis management",
+    "es": "Gestión de crisis aérea"
+  },
+  {
+    "ar": "مسجل الصوت في قمرة القيادة",
+    "en": "Cockpit voice recorder",
+    "es": "Grabadora de voz"
+  },
+  {
+    "ar": "دخان في المقصورة",
+    "en": "Cabin smoke",
+    "es": "Humo en cabina"
+  },
+  {
+    "ar": "حريق على متن الطائرة",
+    "en": "In-flight fire",
+    "es": "Incendio a bordo"
+  },
+  {
+    "ar": "تقرير الحادث",
+    "en": "Incident report",
+    "es": "Informe de incidente"
+  },
+  {
+    "ar": "تفتيش الطائرات",
+    "en": "Aircraft inspection",
+    "es": "Inspección de aeronaves"
+  },
+  {
+    "ar": "التحقيق في الحوادث الجوية",
+    "en": "Air accident investigation",
+    "es": "Investigación de accidentes aéreos"
+  },
+  {
+    "ar": "رخصة طيران",
+    "en": "Pilot license",
+    "es": "Licencia de piloto"
+  },
+  {
+    "ar": "قائمة التحقق",
+    "en": "Checklist",
+    "es": "Lista de verificación"
+  },
+  {
+    "ar": "صيانة الطائرات",
+    "en": "Aircraft maintenance",
+    "es": "Mantenimiento de aeronaves"
+  },
+  {
+    "ar": "أقنعة الأكسجين",
+    "en": "Oxygen masks",
+    "es": "Máscaras de oxígeno"
+  },
+  {
+    "ar": "مراقبة الطقس الجوي",
+    "en": "Weather monitoring",
+    "es": "Monitoreo meteorológico"
+  },
+  {
+    "ar": "محرك مزدوج",
+    "en": "Twin engine",
+    "es": "Motor doble"
+  },
+  {
+    "ar": "أكسجين الطوارئ",
+    "en": "Emergency oxygen",
+    "es": "Oxígeno de emergencia"
+  },
+  {
+    "ar": "جواز سفر",
+    "en": "Passport",
+    "es": "Pasaporte"
+  },
+  {
+    "ar": "فقدان قوة الدفع",
+    "en": "Loss of thrust",
+    "es": "Pérdida de empuje"
+  },
+  {
+    "ar": "فقدان الضغط",
+    "en": "Cabin depressurization",
+    "es": "Pérdida de presión"
+  },
+  {
+    "ar": "طيار",
+    "en": "Pilot",
+    "es": "Piloto"
+  },
+  {
+    "ar": "نظام الطيران الآلي",
+    "en": "Autopilot system",
+    "es": "Piloto automático"
+  },
+  {
+    "ar": "مدرج الإقلاع والهبوط",
+    "en": "Runway",
+    "es": "Pista de aterrizaje"
+  },
+  {
+    "ar": "خطة الطوارئ الجوية",
+    "en": "Aviation emergency plan",
+    "es": "Plan de emergencia aérea"
+  },
+  {
+    "ar": "ضغط المقصورة",
+    "en": "Cabin pressure",
+    "es": "Presurización de cabina"
+  },
+  {
+    "ar": "إجراءات الطوارئ",
+    "en": "Emergency procedures",
+    "es": "Procedimientos de emergencia"
+  },
+  {
+    "ar": "رادار جوي",
+    "en": "Airborne radar",
+    "es": "Radar aéreo"
+  },
+  {
+    "ar": "مسجل بيانات الرحلة",
+    "en": "Flight data recorder (Black box)",
+    "es": "Registrador de vuelo"
+  },
+  {
+    "ar": "تسجيل الركاب",
+    "en": "Check-in",
+    "es": "Registro de pasajeros"
+  },
+  {
+    "ar": "تنظيم الطيران",
+    "en": "Aviation regulation",
+    "es": "Regulación de aviación"
+  },
+  {
+    "ar": "إنقاذ جوي",
+    "en": "Air rescue",
+    "es": "Rescate aéreo"
+  },
+  {
+    "ar": "استجابة الطوارئ الجوية",
+    "en": "Aviation emergency response",
+    "es": "Respuesta a emergencias aéreas"
+  },
+  {
+    "ar": "استجابة سريعة",
+    "en": "Rapid response",
+    "es": "Respuesta rápida"
+  },
+  {
+    "ar": "تأخير الرحلة",
+    "en": "Flight delay",
+    "es": "Retraso de vuelo"
+  },
+  {
+    "ar": "خطر جوي",
+    "en": "Air hazard",
+    "es": "Riesgo aéreo"
+  },
+  {
+    "ar": "مسار الرحلة",
+    "en": "Flight route",
+    "es": "Ruta de vuelo"
+  },
+  {
+    "ar": "سلامة الطيران",
+    "en": "Aviation safety",
+    "es": "Seguridad aérea"
+  },
+  {
+    "ar": "أمن الطيران",
+    "en": "Aviation security",
+    "es": "Seguridad de aviación"
+  },
+  {
+    "ar": "سلامة الركاب",
+    "en": "Passenger safety",
+    "es": "Seguridad de pasajeros"
+  },
+  {
+    "ar": "محاكاة الطيران",
+    "en": "Flight simulation",
+    "es": "Simulación de vuelo"
+  },
+  {
+    "ar": "نظام الملاحة الجوية",
+    "en": "Air navigation system",
+    "es": "Sistema de navegación aérea"
+  },
+  {
+    "ar": "نظام تحديد المواقع الجوي",
+    "en": "GPS navigation system",
+    "es": "Sistema de navegación GPS"
+  },
+  {
+    "ar": "بطاقة صعود الطائرة",
+    "en": "Boarding pass",
+    "es": "Tarjeta de embarque"
+  },
+  {
+    "ar": "فني طائرات",
+    "en": "Aircraft technician",
+    "es": "Técnico de aeronaves"
+  },
+  {
+    "ar": "صالة الركاب",
+    "en": "Passenger terminal",
+    "es": "Terminal de pasajeros"
+  },
+  {
+    "ar": "عاصفة رعدية",
+    "en": "Thunderstorm",
+    "es": "Tormenta eléctrica"
+  },
+  {
+    "ar": "برج المراقبة",
+    "en": "Control tower",
+    "es": "Torre de control"
+  },
+  {
+    "ar": "برج الملاحة الجوية",
+    "en": "Air traffic control tower",
+    "es": "Torre de control aéreo"
+  },
+  {
+    "ar": "النقل الجوي",
+    "en": "Air transport",
+    "es": "Transporte aéreo"
+  },
+  {
+    "ar": "طاقم الطائرة",
+    "en": "Flight crew",
+    "es": "Tripulación de vuelo"
+  },
+  {
+    "ar": "اضطراب جوي",
+    "en": "Turbulence",
+    "es": "Turbulencia"
+  },
+  {
+    "ar": "منطقة حظر طيران",
+    "en": "No-fly zone",
+    "es": "Zona restringida"
+  },
+  {
+    "ar": "ترشيد استهلاك الطاقة",
+    "en": "Energy conservation",
+    "es": "Ahorro de energía"
+  },
+  {
+    "ar": "عازل كهربائي",
+    "en": "Electrical insulator",
+    "es": "Aislante eléctrico"
+  },
+  {
+    "ar": "تخزين الطاقة",
+    "en": "Energy storage",
+    "es": "Almacenamiento de energía"
+  },
+  {
+    "ar": "مخزن طاقة حراري",
+    "en": "Thermal storage",
+    "es": "Almacenamiento térmico"
+  },
+  {
+    "ar": "جهد عالي",
+    "en": "High voltage",
+    "es": "Alta tensión"
+  },
+  {
+    "ar": "انقطاع جزئي للتيار",
+    "en": "Partial blackout",
+    "es": "Apagón parcial"
+  },
+  {
+    "ar": "انقطاع شامل",
+    "en": "Total blackout",
+    "es": "Apagón total"
+  },
+  {
+    "ar": "تدقيق الطاقة",
+    "en": "Energy audit",
+    "es": "Auditoría energética"
+  },
+  {
+    "ar": "هيئة الطاقة",
+    "en": "Energy authority",
+    "es": "Autoridad energética"
+  },
+  {
+    "ar": "توزيع جهد منخفض",
+    "en": "Low voltage distribution",
+    "es": "Baja tensión"
+  },
+  {
+    "ar": "توازن الطاقة",
+    "en": "Energy balance",
+    "es": "Balance energético"
+  },
+  {
+    "ar": "بطاريات",
+    "en": "Batteries",
+    "es": "Baterías"
+  },
+  {
+    "ar": "وقود حيوي",
+    "en": "Biofuel",
+    "es": "Biocombustible"
+  },
+  {
+    "ar": "طاقة حيوية",
+    "en": "Bioenergy",
+    "es": "Bioenergía"
+  },
+  {
+    "ar": "الكتلة الحيوية",
+    "en": "Biomass",
+    "es": "Biomasa"
+  },
+  {
+    "ar": "حمل كهربائي",
+    "en": "Electrical load",
+    "es": "Carga eléctrica"
+  },
+  {
+    "ar": "محطة توليد كهرباء",
+    "en": "Power plant",
+    "es": "Central eléctrica"
+  },
+  {
+    "ar": "صافي الصفر",
+    "en": "Net zero",
+    "es": "Cero neto"
+  },
+  {
+    "ar": "محطة دورة مركبة",
+    "en": "Combined cycle power plant",
+    "es": "Ciclo combinado"
+  },
+  {
+    "ar": "وقود",
+    "en": "Fuel",
+    "es": "Combustible"
+  },
+  {
+    "ar": "الوقود الأحفوري",
+    "en": "Fossil fuels",
+    "es": "Combustibles fósiles"
+  },
+  {
+    "ar": "تجارة الكهرباء",
+    "en": "Electricity trading",
+    "es": "Comercio de electricidad"
+  },
+  {
+    "ar": "موصل كهربائي",
+    "en": "Electrical conductor",
+    "es": "Conductor eléctrico"
+  },
+  {
+    "ar": "استهلاك الطاقة",
+    "en": "Energy consumption",
+    "es": "Consumo de energía"
+  },
+  {
+    "ar": "استهلاك منزلي",
+    "en": "Residential consumption",
+    "es": "Consumo doméstico"
+  },
+  {
+    "ar": "استهلاك صناعي للطاقة",
+    "en": "Industrial energy use",
+    "es": "Consumo industrial de energía"
+  },
+  {
+    "ar": "التيار الكهربائي",
+    "en": "Electric current",
+    "es": "Corriente eléctrica"
+  },
+  {
+    "ar": "انقطاع التيار الكهربائي",
+    "en": "Power outage",
+    "es": "Corte de energía"
+  },
+  {
+    "ar": "أزمة الطاقة",
+    "en": "Energy crisis",
+    "es": "Crisis energética"
+  },
+  {
+    "ar": "عجز الطاقة",
+    "en": "Energy deficit",
+    "es": "Déficit energético"
+  },
+  {
+    "ar": "إزالة الكربون",
+    "en": "Decarbonization",
+    "es": "Descarbonización"
+  },
+  {
+    "ar": "رقمنة الطاقة",
+    "en": "Energy digitalization",
+    "es": "Digitalización energética"
+  },
+  {
+    "ar": "توزيع الطاقة",
+    "en": "Energy distribution",
+    "es": "Distribución de energía"
+  },
+  {
+    "ar": "الاحتباس الحراري",
+    "en": "Greenhouse effect",
+    "es": "Efecto invernadero"
+  },
+  {
+    "ar": "كفاءة التوليد",
+    "en": "Generation efficiency",
+    "es": "Eficiencia de generación"
+  },
+  {
+    "ar": "كفاءة الطاقة",
+    "en": "Energy efficiency",
+    "es": "Eficiencia energética"
+  },
+  {
+    "ar": "انبعاثات الكربون",
+    "en": "Carbon emissions",
+    "es": "Emisiones de carbono"
+  },
+  {
+    "ar": "طاقة بديلة",
+    "en": "Alternative energy",
+    "es": "Energía alternativa"
+  },
+  {
+    "ar": "طاقة الرياح",
+    "en": "Wind energy",
+    "es": "Energía eólica"
+  },
+  {
+    "ar": "طاقة أحفورية",
+    "en": "Fossil energy",
+    "es": "Energía fósil"
+  },
+  {
+    "ar": "حرارة أرضية",
+    "en": "Geothermal energy",
+    "es": "Energía geotérmica"
+  },
+  {
+    "ar": "طاقة هجينة",
+    "en": "Hybrid energy",
+    "es": "Energía híbrida"
+  },
+  {
+    "ar": "طاقة كهرومائية",
+    "en": "Hydropower",
+    "es": "Energía hidroeléctrica"
+  },
+  {
+    "ar": "طاقة نظيفة",
+    "en": "Clean energy",
+    "es": "Energía limpia"
+  },
+  {
+    "ar": "طاقة المد والجزر",
+    "en": "Tidal energy",
+    "es": "Energía mareomotriz"
+  },
+  {
+    "ar": "طاقة نووية",
+    "en": "Nuclear energy",
+    "es": "Energía nuclear"
+  },
+  {
+    "ar": "طاقة متجددة",
+    "en": "Renewable energy",
+    "es": "Energía renovable"
+  },
+  {
+    "ar": "طاقة شمسية",
+    "en": "Solar energy",
+    "es": "Energía solar"
+  },
+  {
+    "ar": "الطاقة المستدامة",
+    "en": "Sustainable energy",
+    "es": "Energía sostenible"
+  },
+  {
+    "ar": "الطاقة الحرارية",
+    "en": "Thermal energy",
+    "es": "Energía térmica"
+  },
+  {
+    "ar": "طاقة الأمواج",
+    "en": "Wave energy",
+    "es": "Energía undimotriz"
+  },
+  {
+    "ar": "استقرار الشبكة",
+    "en": "Grid stability",
+    "es": "Estabilidad de la red"
+  },
+  {
+    "ar": "محطة شحن",
+    "en": "Charging station",
+    "es": "Estación de carga"
+  },
+  {
+    "ar": "فائض الطاقة",
+    "en": "Energy surplus",
+    "es": "Exceso de energía"
+  },
+  {
+    "ar": "الغاز الطبيعي",
+    "en": "Natural gas",
+    "es": "Gas natural"
+  },
+  {
+    "ar": "توليد الكهرباء",
+    "en": "Electricity generation",
+    "es": "Generación de electricidad"
+  },
+  {
+    "ar": "مولد كهرباء",
+    "en": "Electric generator",
+    "es": "Generador eléctrico"
+  },
+  {
+    "ar": "إدارة الأحمال",
+    "en": "Load management",
+    "es": "Gestión de carga"
+  },
+  {
+    "ar": "إدارة الطاقة",
+    "en": "Energy management",
+    "es": "Gestión energética"
+  },
+  {
+    "ar": "هيدروجين أخضر",
+    "en": "Green hydrogen",
+    "es": "Hidrógeno verde"
+  },
+  {
+    "ar": "ربط شبكات",
+    "en": "Grid interconnection",
+    "es": "Interconexión de redes"
+  },
+  {
+    "ar": "انقطاع الإمداد",
+    "en": "Supply disruption",
+    "es": "Interrupción del suministro"
+  },
+  {
+    "ar": "قاطع دائرة",
+    "en": "Circuit breaker",
+    "es": "Interruptor automático"
+  },
+  {
+    "ar": "خطوط نقل الكهرباء",
+    "en": "Transmission lines",
+    "es": "Líneas de transmisión"
+  },
+  {
+    "ar": "جهد متوسط",
+    "en": "Medium voltage",
+    "es": "Media tensión"
+  },
+  {
+    "ar": "نظام قياس ذكي",
+    "en": "Smart metering",
+    "es": "Medición inteligente"
+  },
+  {
+    "ar": "عداد الكهرباء",
+    "en": "Electricity meter",
+    "es": "Medidor eléctrico"
+  },
+  {
+    "ar": "سوق الطاقة",
+    "en": "Energy market",
+    "es": "Mercado energético"
+  },
+  {
+    "ar": "فقدان الطاقة",
+    "en": "Energy loss",
+    "es": "Pérdida de energía"
+  },
+  {
+    "ar": "ذروة الطلب",
+    "en": "Peak demand",
+    "es": "Pico de demanda"
+  },
+  {
+    "ar": "محطة طاقة",
+    "en": "Power station",
+    "es": "Planta de energía"
+  },
+  {
+    "ar": "محطة طاقة شمسية",
+    "en": "Solar power plant",
+    "es": "Planta de energía solar"
+  },
+  {
+    "ar": "محطة ديزل",
+    "en": "Diesel power plant",
+    "es": "Planta diésel"
+  },
+  {
+    "ar": "محطة طاقة حرارية",
+    "en": "Thermal power plant",
+    "es": "Planta térmica"
+  },
+  {
+    "ar": "سياسة الطاقة",
+    "en": "Energy policy",
+    "es": "Política energética"
+  },
+  {
+    "ar": "سد كهرومائي",
+    "en": "Hydroelectric dam",
+    "es": "Presa hidroeléctrica"
+  },
+  {
+    "ar": "إنتاج إنتاج الطاقة",
+    "en": "Energy production",
+    "es": "Producción de energía"
+  },
+  {
+    "ar": "حماية كهربائية",
+    "en": "Electrical protection",
+    "es": "Protección eléctrica"
+  },
+  {
+    "ar": "شبكة كهربائية",
+    "en": "Power grid",
+    "es": "Red eléctrica"
+  },
+  {
+    "ar": "شبكة ذكية",
+    "en": "Smart grid",
+    "es": "Red inteligente"
+  },
+  {
+    "ar": "شبكة نقل وطنية",
+    "en": "National grid",
+    "es": "Red nacional eléctrica"
+  },
+  {
+    "ar": "تكرير النفط",
+    "en": "Oil refining",
+    "es": "Refinación de petróleo"
+  },
+  {
+    "ar": "تنظيم الطاقة",
+    "en": "Energy regulation",
+    "es": "Regulación energética"
+  },
+  {
+    "ar": "احتياطي الطاقة",
+    "en": "Energy reserve",
+    "es": "Reserva de energía"
+  },
+  {
+    "ar": "مرونة الشبكة",
+    "en": "Grid resilience",
+    "es": "Resiliencia de la red"
+  },
+  {
+    "ar": "مقاومة كهربائية",
+    "en": "Electrical resistance",
+    "es": "Resistencia eléctrica"
+  },
+  {
+    "ar": "إعادة تشغيل الشبكة",
+    "en": "Grid restoration",
+    "es": "Restablecimiento de red"
+  },
+  {
+    "ar": "أمن الإمدادات",
+    "en": "Supply security",
+    "es": "Seguridad del suministro"
+  },
+  {
+    "ar": "أمن الطاقة",
+    "en": "Energy security",
+    "es": "Seguridad energética"
+  },
+  {
+    "ar": "نظام الطاقة",
+    "en": "Energy system",
+    "es": "Sistema energético"
+  },
+  {
+    "ar": "نظام هجين للطاقة",
+    "en": "Hybrid energy system",
+    "es": "Sistema híbrido energético"
+  },
+  {
+    "ar": "استدامة الطاقة",
+    "en": "Energy sustainability",
+    "es": "Sostenibilidad energética"
+  },
+  {
+    "ar": "محطة فرعية",
+    "en": "Electrical substation",
+    "es": "Subestación eléctrica"
+  },
+  {
+    "ar": "تسعير الطاقة",
+    "en": "Energy pricing",
+    "es": "Tarificación energética"
+  },
+  {
+    "ar": "محول كهربائي",
+    "en": "Transformer",
+    "es": "Transformador"
+  },
+  {
+    "ar": "انتقال الطاقة",
+    "en": "Energy transition",
+    "es": "Transición energética"
+  },
+  {
+    "ar": "توربين غازي",
+    "en": "Gas turbine",
+    "es": "Turbina de gas"
+  },
+  {
+    "ar": "توربين رياح",
+    "en": "Wind turbine",
+    "es": "Turbina eólica"
+  },
+  {
+    "ar": "الجهد الكهربائي",
+    "en": "Voltage",
+    "es": "Voltaje"
+  },
+  {
+    "ar": "حوادث مرورية",
+    "en": "Traffic accidents",
+    "es": "Accidentes de tráfico"
+  },
+  {
+    "ar": "حوادث طرق مميتة",
+    "en": "Fatal road accidents",
+    "es": "Accidentes viales fatales"
+  },
+  {
+    "ar": "مطار",
+    "en": "Airport",
+    "es": "Aeropuerto"
+  },
+  {
+    "ar": "إنذار مروري",
+    "en": "Traffic alert",
+    "es": "Alerta de tráfico"
+  },
+  {
+    "ar": "توسعة الطرق",
+    "en": "Road expansion",
+    "es": "Ampliación de carreteras"
+  },
+  {
+    "ar": "رصيف محطة",
+    "en": "Platform",
+    "es": "Andén"
+  },
+  {
+    "ar": "حافلات",
+    "en": "Buses",
+    "es": "Autobuses"
+  },
+  {
+    "ar": "سيارة",
+    "en": "Car",
+    "es": "Automóvil"
+  },
+  {
+    "ar": "طريق سريع",
+    "en": "Highway",
+    "es": "Autopista"
+  },
+  {
+    "ar": "دراجة هوائية",
+    "en": "Bicycle",
+    "es": "Bicicleta"
+  },
+  {
+    "ar": "تعطل الطرق",
+    "en": "Road blockage",
+    "es": "Bloqueo vial"
+  },
+  {
+    "ar": "جودة الطرق",
+    "en": "Road quality",
+    "es": "Calidad vial"
+  },
+  {
+    "ar": "كاميرات مراقبة المرور",
+    "en": "Traffic cameras",
+    "es": "Cámaras de tráfico"
+  },
+  {
+    "ar": "شاحنة",
+    "en": "Truck",
+    "es": "Camión"
+  },
+  {
+    "ar": "طريق رئيسي",
+    "en": "Main road",
+    "es": "Carretera principal"
+  },
+  {
+    "ar": "طريق فرعي",
+    "en": "Secondary road",
+    "es": "Carretera secundaria"
+  },
+  {
+    "ar": "مراكز لوجستية",
+    "en": "Logistics hubs",
+    "es": "Centros logísticos"
+  },
+  {
+    "ar": "مدينة ذكية",
+    "en": "Smart city",
+    "es": "Ciudad inteligente"
+  },
+  {
+    "ar": "انهيار طريق",
+    "en": "Road collapse",
+    "es": "Colapso de carretera"
+  },
+  {
+    "ar": "وقود النقل",
+    "en": "Transport fuel",
+    "es": "Combustible de transporte"
+  },
+  {
+    "ar": "وقود نظيف",
+    "en": "Clean fuel",
+    "es": "Combustible limpio"
+  },
+  {
+    "ar": "سائق",
+    "en": "Driver",
+    "es": "Conductor"
+  },
+  {
+    "ar": "ازدحام مروري",
+    "en": "Traffic congestion",
+    "es": "Congestión de tráfico"
+  },
+  {
+    "ar": "ازدحام حضري",
+    "en": "Urban congestion",
+    "es": "Congestión urbana"
+  },
+  {
+    "ar": "إنشاءات",
+    "en": "Construction",
+    "es": "Construcción"
+  },
+  {
+    "ar": "بيانات حركة المرور",
+    "en": "Traffic data",
+    "es": "Datos de tráfico"
+  },
+  {
+    "ar": "تطوير البنية التحتية",
+    "en": "Infrastructure development",
+    "es": "Desarrollo de infraestructura"
+  },
+  {
+    "ar": "تطوير حضري مستدام",
+    "en": "Sustainable urban development",
+    "es": "Desarrollo urbano sostenible"
+  },
+  {
+    "ar": "كوارث طرق",
+    "en": "Road disasters",
+    "es": "Desastres viales"
+  },
+  {
+    "ar": "توزيع البضائع",
+    "en": "Goods distribution",
+    "es": "Distribución de mercancías"
+  },
+  {
+    "ar": "محطة حافلات",
+    "en": "Bus station",
+    "es": "Estación de autobuses"
+  },
+  {
+    "ar": "محطة شحن سيارات",
+    "en": "EV charging station",
+    "es": "Estación de carga eléctrica"
+  },
+  {
+    "ar": "محطة قطار",
+    "en": "Train station",
+    "es": "Estación de tren"
+  },
+  {
+    "ar": "مواقف سيارات",
+    "en": "Parking",
+    "es": "Estacionamiento"
+  },
+  {
+    "ar": "تقييم الطرق",
+    "en": "Road assessment",
+    "es": "Evaluación vial"
+  },
+  {
+    "ar": "السكك الحديدية",
+    "en": "Railways",
+    "es": "Ferrocarriles"
+  },
+  {
+    "ar": "إدارة مواقف",
+    "en": "Parking management",
+    "es": "Gestión de estacionamiento"
+  },
+  {
+    "ar": "إدارة الأسطول",
+    "en": "Fleet management",
+    "es": "Gestión de flota"
+  },
+  {
+    "ar": "إدارة البنية التحتية",
+    "en": "Infrastructure management",
+    "es": "Gestión de infraestructura"
+  },
+  {
+    "ar": "إدارة السلامة المرورية",
+    "en": "Traffic safety management",
+    "es": "Gestión de seguridad vial"
+  },
+  {
+    "ar": "إدارة المرور",
+    "en": "Traffic management",
+    "es": "Gestión del tráfico"
+  },
+  {
+    "ar": "دوار مروري",
+    "en": "Roundabout",
+    "es": "Glorieta"
+  },
+  {
+    "ar": "بنية تحتية",
+    "en": "Infrastructure",
+    "es": "Infraestructura"
+  },
+  {
+    "ar": "بنية تحتية ذكية",
+    "en": "Smart infrastructure",
+    "es": "Infraestructura inteligente"
+  },
+  {
+    "ar": "هندسة النقل",
+    "en": "Transport engineering",
+    "es": "Ingeniería de transporte"
+  },
+  {
+    "ar": "تفتيش البنية التحتية",
+    "en": "Infrastructure inspection",
+    "es": "Inspección de infraestructura"
+  },
+  {
+    "ar": "ذكاء مروري",
+    "en": "Traffic intelligence",
+    "es": "Inteligencia de tráfico"
+  },
+  {
+    "ar": "محطة فرعية للطرق",
+    "en": "Road interchange",
+    "es": "Intercambiador vial"
+  },
+  {
+    "ar": "انقطاع طريق",
+    "en": "Road disruption",
+    "es": "Interrupción vial"
+  },
+  {
+    "ar": "تقاطع مروري",
+    "en": "Road intersection",
+    "es": "Intersección vial"
+  },
+  {
+    "ar": "لوجستيات النقل",
+    "en": "Transport logistics",
+    "es": "Logística de transporte"
+  },
+  {
+    "ar": "لوجستيات ذكية",
+    "en": "Smart logistics",
+    "es": "Logística inteligente"
+  },
+  {
+    "ar": "صيانة الجسور",
+    "en": "Bridge maintenance",
+    "es": "Mantenimiento de puentes"
+  },
+  {
+    "ar": "صيانة الطرق",
+    "en": "Road maintenance",
+    "es": "Mantenimiento vial"
+  },
+  {
+    "ar": "وسائل النقل",
+    "en": "Means of transport",
+    "es": "Medios de transporte"
+  },
+  {
+    "ar": "تحسين النقل",
+    "en": "Transport improvement",
+    "es": "Mejora del transporte"
+  },
+  {
+    "ar": "مترو",
+    "en": "Subway",
+    "es": "Metro"
+  },
+  {
+    "ar": "تحديث الطرق",
+    "en": "Road upgrading",
+    "es": "Modernización vial"
+  },
+  {
+    "ar": "دراجة نارية",
+    "en": "Motorcycle",
+    "es": "Motocicleta"
+  },
+  {
+    "ar": "راكب",
+    "en": "Passenger",
+    "es": "Pasajero"
+  },
+  {
+    "ar": "معبر مشاة",
+    "en": "Pedestrian crossing",
+    "es": "Paso peatonal"
+  },
+  {
+    "ar": "بوابة رسوم",
+    "en": "Toll gate",
+    "es": "Peaje"
+  },
+  {
+    "ar": "تخطيط النقل",
+    "en": "Transport planning",
+    "es": "Planificación del transporte"
+  },
+  {
+    "ar": "تخطيط حضري",
+    "en": "Urban planning",
+    "es": "Planificación urbana"
+  },
+  {
+    "ar": "شرطة المرور",
+    "en": "Traffic police",
+    "es": "Policía de tráfico"
+  },
+  {
+    "ar": "جسر",
+    "en": "Bridge",
+    "es": "Puente"
+  },
+  {
+    "ar": "جسور معلقة",
+    "en": "Suspension bridges",
+    "es": "Puentes colgantes"
+  },
+  {
+    "ar": "جسور خرسانية",
+    "en": "Concrete bridges",
+    "es": "Puentes de concreto"
+  },
+  {
+    "ar": "ميناء",
+    "en": "Port",
+    "es": "Puerto"
+  },
+  {
+    "ar": "شبكة نقل حضري",
+    "en": "Urban transport network",
+    "es": "Red de transporte urbano"
+  },
+  {
+    "ar": "شبكة طرق",
+    "en": "Road network",
+    "es": "Red vial"
+  },
+  {
+    "ar": "تقليل الانبعاثات",
+    "en": "Emission reduction",
+    "es": "Reducción de emisiones"
+  },
+  {
+    "ar": "تنظيم المرور",
+    "en": "Traffic regulation",
+    "es": "Regulación del tráfico"
+  },
+  {
+    "ar": "تأخير الرحلات",
+    "en": "Transport delay",
+    "es": "Retraso de transporte"
+  },
+  {
+    "ar": "تتبع المركبات",
+    "en": "Vehicle tracking",
+    "es": "Seguimiento de vehículos"
+  },
+  {
+    "ar": "سلامة الطرق",
+    "en": "Road safety",
+    "es": "Seguridad vial"
+  },
+  {
+    "ar": "إشارة مرور",
+    "en": "Traffic light",
+    "es": "Semáforo"
+  },
+  {
+    "ar": "إشارات مرور ذكية",
+    "en": "Smart traffic lights",
+    "es": "Semáforos inteligentes"
+  },
+  {
+    "ar": "إشارات المرور",
+    "en": "Traffic signals",
+    "es": "Señales de tráfico"
+  },
+  {
+    "ar": "خدمات النقل",
+    "en": "Transport services",
+    "es": "Servicios de transporte"
+  },
+  {
+    "ar": "نظام مراقبة الطرق",
+    "en": "Road monitoring system",
+    "es": "Sistema de monitoreo vial"
+  },
+  {
+    "ar": "نظام GPS للنقل",
+    "en": "Transport GPS system",
+    "es": "Sistema GPS de transporte"
+  },
+  {
+    "ar": "استدامة البنية التحتية",
+    "en": "Infrastructure sustainability",
+    "es": "Sostenibilidad de infraestructura"
+  },
+  {
+    "ar": "استدامة النقل",
+    "en": "Transport sustainability",
+    "es": "Sostenibilidad del transporte"
+  },
+  {
+    "ar": "إشراف مروري",
+    "en": "Traffic supervision",
+    "es": "Supervisión de tráfico"
+  },
+  {
+    "ar": "النقل",
+    "en": "Transportation",
+    "es": "Transporte"
+  },
+  {
+    "ar": "نقل منخفض الكربون",
+    "en": "Low-carbon transport",
+    "es": "Transporte bajo en carbono"
+  },
+  {
+    "ar": "نقل البضائع",
+    "en": "Freight transport",
+    "es": "Transporte de mercancías"
+  },
+  {
+    "ar": "نقل ذكي",
+    "en": "Smart transportation",
+    "es": "Transporte inteligente"
+  },
+  {
+    "ar": "نقل بين المدن",
+    "en": "Intercity transport",
+    "es": "Transporte interurbano"
+  },
+  {
+    "ar": "نقل عام",
+    "en": "Public transport",
+    "es": "Transporte público"
+  },
+  {
+    "ar": "النقل السريع",
+    "en": "Rapid transit",
+    "es": "Transporte rápido"
+  },
+  {
+    "ar": "قطار",
+    "en": "Train",
+    "es": "Tren"
+  },
+  {
+    "ar": "قطار سريع",
+    "en": "High-speed train",
+    "es": "Tren de alta velocidad"
+  },
+  {
+    "ar": "قطار شحن",
+    "en": "Freight train",
+    "es": "Tren de carga"
+  },
+  {
+    "ar": "نفق",
+    "en": "Tunnel",
+    "es": "Túnel"
+  },
+  {
+    "ar": "أنفاق طرق",
+    "en": "Road tunnels",
+    "es": "Túneles viales"
+  },
+  {
+    "ar": "مركبات ذاتية القيادة",
+    "en": "Autonomous vehicles",
+    "es": "Vehículos autónomos"
+  },
+  {
+    "ar": "مركبات كهربائية",
+    "en": "Electric vehicles",
+    "es": "Vehículos eléctricos"
+  },
+  {
+    "ar": "تحذير كيميائي",
+    "en": "Chemical warning",
+    "es": "Advertencia química"
+  },
+  {
+    "ar": "إنذار كيميائي",
+    "en": "Chemical alarm",
+    "es": "Alarma química"
+  },
+  {
+    "ar": "تخزين آمن للمواد الخطرة",
+    "en": "Safe hazardous storage",
+    "es": "Almacenamiento seguro"
+  },
+  {
+    "ar": "تحليل الحوادث",
+    "en": "Incident analysis",
+    "es": "Análisis de incidentes"
+  },
+  {
+    "ar": "تحليل المخاطر",
+    "en": "Risk analysis",
+    "es": "Análisis de riesgos"
+  },
+  {
+    "ar": "تحليل كيميائي",
+    "en": "Chemical analysis",
+    "es": "Análisis químico"
+  },
+  {
+    "ar": "جودة الهواء",
+    "en": "Air quality",
+    "es": "Calidad del aire"
+  },
+  {
+    "ar": "غرف عزل كيميائي",
+    "en": "Chemical isolation chambers",
+    "es": "Cámaras de aislamiento químico"
+  },
+  {
+    "ar": "تدريب HAZMAT",
+    "en": "Hazmat training",
+    "es": "Capacitación HAZMAT"
+  },
+  {
+    "ar": "شحنة خطرة",
+    "en": "Dangerous cargo",
+    "es": "Carga peligrosa"
+  },
+  {
+    "ar": "إغلاق طارئ",
+    "en": "Emergency shutdown",
+    "es": "Cierre de emergencia"
+  },
+  {
+    "ar": "تصنيف المواد الخطرة",
+    "en": "Hazmat classification",
+    "es": "Clasificación de materiales peligrosos"
+  },
+  {
+    "ar": "تصنيف الأمم المتحدة",
+    "en": "UN classification",
+    "es": "Clasificación ONU"
+  },
+  {
+    "ar": "رمز الخطر",
+    "en": "Hazard code",
+    "es": "Código de peligro"
+  },
+  {
+    "ar": "تلوث بيئي",
+    "en": "Environmental contamination",
+    "es": "Contaminación ambiental"
+  },
+  {
+    "ar": "تلوث مياه",
+    "en": "Water contamination",
+    "es": "Contaminación del agua"
+  },
+  {
+    "ar": "احتواء التسرب",
+    "en": "Spill containment",
+    "es": "Contención de derrames"
+  },
+  {
+    "ar": "احتواء ثانوي",
+    "en": "Secondary containment",
+    "es": "Contención secundaria"
+  },
+  {
+    "ar": "حاويات خطرة",
+    "en": "Hazardous containers",
+    "es": "Contenedores peligrosos"
+  },
+  {
+    "ar": "تسرب نفطي",
+    "en": "Oil spill",
+    "es": "Derrame de petróleo"
+  },
+  {
+    "ar": "تسرب كيميائي",
+    "en": "Chemical spill",
+    "es": "Derrame químico"
+  },
+  {
+    "ar": "إزالة التلوث",
+    "en": "Decontamination",
+    "es": "Descontaminación"
+  },
+  {
+    "ar": "كشف مبكر للتسرب",
+    "en": "Early leak detection",
+    "es": "Detección temprana de fugas"
+  },
+  {
+    "ar": "أجهزة كشف المواد",
+    "en": "Substance detectors",
+    "es": "Detectores de sustancias"
+  },
+  {
+    "ar": "إزالة المخاطر",
+    "en": "Risk elimination",
+    "es": "Eliminación de riesgos"
+  },
+  {
+    "ar": "تعبئة آمنة",
+    "en": "Safe packaging",
+    "es": "Embalaje seguro"
+  },
+  {
+    "ar": "طوارئ كيميائية",
+    "en": "Chemical emergency",
+    "es": "Emergencia química"
+  },
+  {
+    "ar": "انبعاثات سامة",
+    "en": "Toxic emissions",
+    "es": "Emisiones tóxicas"
+  },
+  {
+    "ar": "بيئة عمل آمنة",
+    "en": "Safe working environment",
+    "es": "Entorno de trabajo seguro"
+  },
+  {
+    "ar": "معدات الوقاية الشخصية",
+    "en": "Personal protective equipment (PPE)",
+    "es": "Equipo de protección personal"
+  },
+  {
+    "ar": "فريق الاستجابة السريعة",
+    "en": "Rapid response team",
+    "es": "Equipo de respuesta rápida"
+  },
+  {
+    "ar": "فريق المواد الخطرة",
+    "en": "HAZMAT team",
+    "es": "Equipo HAZMAT"
+  },
+  {
+    "ar": "معدات عزل",
+    "en": "Isolation equipment",
+    "es": "Equipos de aislamiento"
+  },
+  {
+    "ar": "إخلاء",
+    "en": "Evacuation",
+    "es": "Evacuación"
+  },
+  {
+    "ar": "تقييم المخاطر الكيميائية",
+    "en": "Chemical risk assessment",
+    "es": "Evaluación de riesgos químicos"
+  },
+  {
+    "ar": "تقييم ما بعد الحادث",
+    "en": "incidente -Post-incident assessment",
+    "es": "Evaluación post"
+  },
+  {
+    "ar": "انفجار كيميائي",
+    "en": "Chemical explosion",
+    "es": "Explosión química"
+  },
+  {
+    "ar": "التعرض الكيميائي",
+    "en": "Chemical exposure",
+    "es": "Exposición química"
+  },
+  {
+    "ar": "تسرب أرضي",
+    "en": "Soil contamination",
+    "es": "Filtración en suelo"
+  },
+  {
+    "ar": "تسرب غاز",
+    "en": "Gas leak",
+    "es": "Fuga de gas"
+  },
+  {
+    "ar": "تسرب صناعي",
+    "en": "Industrial leak",
+    "es": "Fuga industrial"
+  },
+  {
+    "ar": "تسرب إشعاعي",
+    "en": "Radiological leak",
+    "es": "Fuga radiactiva"
+  },
+  {
+    "ar": "إدارة الطوارئ الكيميائية",
+    "en": "Chemical emergency management",
+    "es": "Gestión de emergencias químicas"
+  },
+  {
+    "ar": "إدارة النفايات الخطرة",
+    "en": "Hazardous waste management",
+    "es": "Gestión de residuos peligrosos"
+  },
+  {
+    "ar": "قفازات واقية",
+    "en": "Protective gloves",
+    "es": "Guantes de protección"
+  },
+  {
+    "ar": "بطاقة بيانات السلامة",
+    "en": "Safety data sheet (SDS)",
+    "es": "Hoja de datos de seguridad"
+  },
+  {
+    "ar": "حادث مواد خطرة",
+    "en": "Hazmat incident",
+    "es": "Incidente con materiales peligrosos"
+  },
+  {
+    "ar": "تقرير الحادث",
+    "en": "Incident report",
+    "es": "Informe de incidente"
+  },
+  {
+    "ar": "استنشاق مواد سامة",
+    "en": "Toxic inhalation",
+    "es": "Inhalación tóxica"
+  },
+  {
+    "ar": "فحص المواد",
+    "en": "Substance inspection",
+    "es": "Inspección de sustancias"
+  },
+  {
+    "ar": "تسمم",
+    "en": "Poisoning",
+    "es": "Intoxicación"
+  },
+  {
+    "ar": "تنظيف صناعي",
+    "en": "Industrial cleanup",
+    "es": "Limpieza industrial"
+  },
+  {
+    "ar": "تنظيف كيميائي",
+    "en": "Chemical cleanup",
+    "es": "Limpieza química"
+  },
+  {
+    "ar": "معالجة المواد",
+    "en": "Material handling",
+    "es": "Manipulación de materiales"
+  },
+  {
+    "ar": "خرائط المواد الخطرة",
+    "en": "Hazmat mapping",
+    "es": "Mapas de materiales peligrosos"
+  },
+  {
+    "ar": "قناع واقي",
+    "en": "Protective mask",
+    "es": "Máscara de protección"
+  },
+  {
+    "ar": "مادة خطرة",
+    "en": "Hazardous material (HAZMAT)",
+    "es": "Material peligroso"
+  },
+  {
+    "ar": "مواد متفجرة",
+    "en": "Explosive materials",
+    "es": "Materiales explosivos"
+  },
+  {
+    "ar": "مواد قابلة للاشتعال",
+    "en": "Flammable materials",
+    "es": "Materiales inflamables"
+  },
+  {
+    "ar": "مواد مشعة",
+    "en": "Radioactive materials",
+    "es": "Materiales radiactivos"
+  },
+  {
+    "ar": "مراقبة المواد الخطرة",
+    "en": "Hazardous substance monitoring",
+    "es": "Monitoreo de sustancias peligrosas"
+  },
+  {
+    "ar": "مراقبة الهواء",
+    "en": "Air monitoring",
+    "es": "Monitoreo del aire"
+  },
+  {
+    "ar": "رقم الأمم المتحدة",
+    "en": "UN number",
+    "es": "Número ONU"
+  },
+  {
+    "ar": "خطط الطوارئ الكيميائية",
+    "en": "Chemical emergency plans",
+    "es": "Planes de emergencia química"
+  },
+  {
+    "ar": "ضغط كيميائي",
+    "en": "Chemical pressure",
+    "es": "Presión química"
+  },
+  {
+    "ar": "منع التسرب",
+    "en": "Leak prevention",
+    "es": "Prevención de fugas"
+  },
+  {
+    "ar": "إجراءات الطوارئ الكيميائية",
+    "en": "Chemical emergency procedures",
+    "es": "Procedimientos de emergencia química"
+  },
+  {
+    "ar": "حماية العمال",
+    "en": "Worker protection",
+    "es": "Protección de trabajadores"
+  },
+  {
+    "ar": "بروتوكول HAZMAT",
+    "en": "Hazmat protocol",
+    "es": "Protocolo HAZMAT"
+  },
+  {
+    "ar": "حروق كيميائية",
+    "en": "Chemical burn",
+    "es": "Quemadura química"
+  },
+  {
+    "ar": "تفاعل طارد للحرارة",
+    "en": "Exothermic reaction",
+    "es": "Reacción exotérmica"
+  },
+  {
+    "ar": "تفاعل كيميائي خطير",
+    "en": "Hazardous reaction",
+    "es": "Reacción química peligrosa"
+  },
+  {
+    "ar": "تقليل المخاطر",
+    "en": "Risk reduction",
+    "es": "Reducción de riesgos"
+  },
+  {
+    "ar": "لوائح النقل",
+    "en": "Transport regulations",
+    "es": "Regulaciones de transporte"
+  },
+  {
+    "ar": "إعادة التأهيل البيئي",
+    "en": "Environmental rehabilitation",
+    "es": "Rehabilitación ambiental"
+  },
+  {
+    "ar": "الاستجابة للمواد الخطرة",
+    "en": "Hazardous materials response",
+    "es": "Respuesta a materiales peligrosos"
+  },
+  {
+    "ar": "استجابة بيئية",
+    "en": "Environmental response",
+    "es": "Respuesta ambiental"
+  },
+  {
+    "ar": "استجابة متكاملة للمواد الخطرة",
+    "en": "Integrated hazmat response",
+    "es": "Respuesta integral HAZMAT"
+  },
+  {
+    "ar": "خطر الاستنشاق",
+    "en": "Inhalation hazard",
+    "es": "Riesgo de inhalación"
+  },
+  {
+    "ar": "خطر كيميائي",
+    "en": "Chemical hazard",
+    "es": "Riesgo químico"
+  },
+  {
+    "ar": "سلامة المواد الخطرة",
+    "en": "Hazmat safety",
+    "es": "Seguridad de materiales peligrosos"
+  },
+  {
+    "ar": "سلامة صناعية كيميائية",
+    "en": "Chemical industrial safety",
+    "es": "Seguridad industrial química"
+  },
+  {
+    "ar": "محاكاة تسرب",
+    "en": "Spill simulation",
+    "es": "Simulación de derrames"
+  },
+  {
+    "ar": "نظام كشف الغاز",
+    "en": "Gas detection system",
+    "es": "Sistema de detección de gas"
+  },
+  {
+    "ar": "نظام إيقاف الطوارئ",
+    "en": "Emergency shutdown system (ESD)",
+    "es": "Sistema de parada de emergencia"
+  },
+  {
+    "ar": "نظام تهوية طوارئ",
+    "en": "Emergency ventilation system",
+    "es": "Sistema de ventilación de emergencia"
+  },
+  {
+    "ar": "مواد كاوية",
+    "en": "Corrosive substances",
+    "es": "Sustancias corrosivas"
+  },
+  {
+    "ar": "مواد مؤكسدة",
+    "en": "Oxidizing agents",
+    "es": "Sustancias oxidantes"
+  },
+  {
+    "ar": "مواد تفاعلية",
+    "en": "Reactive chemicals",
+    "es": "Sustancias reactivas"
+  },
+  {
+    "ar": "مواد سامة",
+    "en": "Toxic substances",
+    "es": "Sustancias tóxicas"
+  },
+  {
+    "ar": "السمية",
+    "en": "Toxicity",
+    "es": "Toxicidad"
+  },
+  {
+    "ar": "بدلة واقية",
+    "en": "Protective suit",
+    "es": "Traje de protección"
+  },
+  {
+    "ar": "نقل المواد الخطرة",
+    "en": "Hazardous materials transport",
+    "es": "Transporte de materiales peligrosos"
+  },
+  {
+    "ar": "نقل آمن",
+    "en": "Safe transport",
+    "es": "Transporte seguro"
+  },
+  {
+    "ar": "معالجة التلوث",
+    "en": "Pollution treatment",
+    "es": "Tratamiento de contaminación"
+  },
+  {
+    "ar": "بخار سام",
+    "en": "Toxic vapor",
+    "es": "Vapor tóxico"
+  },
+  {
+    "ar": "تهوية صناعية",
+    "en": "Industrial ventilation",
+    "es": "Ventilación industrial"
+  },
+  {
+    "ar": "منطقة عزل",
+    "en": "Isolation zone",
+    "es": "Zona de aislamiento"
+  },
+  {
+    "ar": "منطقة خطر كيميائي",
+    "en": "Chemical hazard zone",
+    "es": "Zona de riesgo químico"
+  },
+  {
+    "ar": "تحديث أمني",
+    "en": "Security update",
+    "es": "Actualización de seguridad"
+  },
+  {
+    "ar": "تحديث النظام",
+    "en": "System update",
+    "es": "Actualización del sistema"
+  },
+  {
+    "ar": "إنذار سيبراني",
+    "en": "Cyber alert",
+    "es": "Alerta cibernética"
+  },
+  {
+    "ar": "تنبيه أمني",
+    "en": "Security alert",
+    "es": "Alerta de seguridad"
+  },
+  {
+    "ar": "خوارزميات التشفير",
+    "en": "Encryption algorithms",
+    "es": "Algoritmos de cifrado"
+  },
+  {
+    "ar": "هجوم متقدم مستمر",
+    "en": "Advanced Persistent Threat (APT)",
+    "es": "Amenaza persistente avanzada"
+  },
+  {
+    "ar": "تحليل التهديدات",
+    "en": "Threat analysis",
+    "es": "Análisis de amenazas"
+  },
+  {
+    "ar": "تحليل سلوك المستخدم",
+    "en": "User behavior analytics (UBA)",
+    "es": "Análisis de comportamiento"
+  },
+  {
+    "ar": "تحليل السجلات",
+    "en": "Log analysis",
+    "es": "Análisis de logs"
+  },
+  {
+    "ar": "هجوم على البنية التحتية",
+    "en": "Infrastructure attack",
+    "es": "Ataque a infraestructura"
+  },
+  {
+    "ar": "هجوم إلكتروني",
+    "en": "Cyber attack",
+    "es": "Ataque cibernético"
+  },
+  {
+    "ar": "هجوم حجب الخدمة",
+    "en": "Denial of Service (DoS)",
+    "es": "Ataque de denegación de servicio"
+  },
+  {
+    "ar": "هجوم البريد الإلكتروني",
+    "en": "Email attack",
+    "es": "Ataque por correo electrónico"
+  },
+  {
+    "ar": "المصادقة متعددة العوامل",
+    "en": "Multi",
+    "es": "Autenticación multifactor"
+  },
+  {
+    "ar": "حظر IP",
+    "en": "IP blocking",
+    "es": "Bloqueo de IP"
+  },
+  {
+    "ar": "اختراق اختراق بيانات",
+    "en": "Data breach",
+    "es": "Brecha de datos"
+  },
+  {
+    "ar": "حصان طروادة",
+    "en": "Trojan horse",
+    "es": "Caballo de Troya"
+  },
+  {
+    "ar": "تعطيل النظام",
+    "en": "System outage",
+    "es": "Caída del sistema"
+  },
+  {
+    "ar": "مركز مراقبة الشبكات",
+    "en": "Network operations center (NOC)",
+    "es": "Centro de monitoreo de red"
+  },
+  {
+    "ar": "مركز عمليات الأمن السيبراني",
+    "en": "Security Operations Center (SOC)",
+    "es": "Centro de operaciones de seguridad"
+  },
+  {
+    "ar": "مجرم سيبراني",
+    "en": "Cybercriminal",
+    "es": "Ciberdelincuente"
+  },
+  {
+    "ar": "الأمن السيبراني",
+    "en": "Cybersecurity",
+    "es": "Ciberseguridad"
+  },
+  {
+    "ar": "تسجيل الخروج",
+    "en": "Logout",
+    "es": "Cierre de sesión"
+  },
+  {
+    "ar": "التشفير المتقدم",
+    "en": "Advanced encryption",
+    "es": "Cifrado avanzado"
+  },
+  {
+    "ar": "تشفير البيانات",
+    "en": "Data encryption",
+    "es": "Cifrado de datos"
+  },
+  {
+    "ar": "مفتاح التشفير",
+    "en": "Encryption key",
+    "es": "Clave de cifrado"
+  },
+  {
+    "ar": "اختراق الحساب",
+    "en": "Account compromise",
+    "es": "Compromiso de cuenta"
+  },
+  {
+    "ar": "اختراق أجهزة",
+    "en": "Device compromise",
+    "es": "Compromiso de dispositivos"
+  },
+  {
+    "ar": "استمرارية الأعمال الرقمية",
+    "en": "Business continuity",
+    "es": "Continuidad del negocio digital"
+  },
+  {
+    "ar": "كلمة مرور",
+    "en": "Password",
+    "es": "Contraseña"
+  },
+  {
+    "ar": "التحكم في الوصول",
+    "en": "Access control",
+    "es": "Control de acceso"
+  },
+  {
+    "ar": "نسخة احتياطية",
+    "en": "Backup",
+    "es": "Copia de seguridad"
+  },
+  {
+    "ar": "نسخ احتياطي سحابي",
+    "en": "Cloud backup",
+    "es": "Copia de seguridad en la nube"
+  },
+  {
+    "ar": "رسالة خبيثة",
+    "en": "Malicious email",
+    "es": "Correo malicioso"
+  },
+  {
+    "ar": "جدار الحماية",
+    "en": "Firewall",
+    "es": "Cortafuegos"
+  },
+  {
+    "ar": "فك التشفير",
+    "en": "Decryption",
+    "es": "Descifrado"
+  },
+  {
+    "ar": "كشف التسلل المتقدم",
+    "en": "Advanced intrusion detection",
+    "es": "Detección avanzada de intrusiones"
+  },
+  {
+    "ar": "كشف التهديدات",
+    "en": "Threat detection",
+    "es": "Detección de amenazas"
+  },
+  {
+    "ar": "عنوان IP",
+    "en": "IP address",
+    "es": "Dirección IP"
+  },
+  {
+    "ar": "أجهزة ذكية",
+    "en": "Smart devices",
+    "es": "Dispositivos inteligentes"
+  },
+  {
+    "ar": "التجسس السيبراني",
+    "en": "Cyber espionage",
+    "es": "Espionaje cibernético"
+  },
+  {
+    "ar": "تقييم الثغرات",
+    "en": "Vulnerability assessment",
+    "es": "Evaluación de vulnerabilidades"
+  },
+  {
+    "ar": "فشل النظام",
+    "en": "System failure",
+    "es": "Falla del sistema"
+  },
+  {
+    "ar": "جدار حماية الجيل الجديد",
+    "en": "Next",
+    "es": "Firewall de nueva generación"
+  },
+  {
+    "ar": "إدارة الوصول",
+    "en": "Access management",
+    "es": "Gestión de accesos"
+  },
+  {
+    "ar": "إدارة المفاتيح",
+    "en": "Key management",
+    "es": "Gestión de claves"
+  },
+  {
+    "ar": "إدارة الهوية",
+    "en": "Identity management",
+    "es": "Gestión de identidad"
+  },
+  {
+    "ar": "إدارة الحوادث السيبرانية",
+    "en": "Cyber incident management",
+    "es": "Gestión de incidentes cibernéticos"
+  },
+  {
+    "ar": "إدارة المخاطر السيبرانية",
+    "en": "Cyber risk management",
+    "es": "Gestión de riesgos cibernéticos"
+  },
+  {
+    "ar": "إدارة الثغرات",
+    "en": "Vulnerability management",
+    "es": "Gestión de vulnerabilidades"
+  },
+  {
+    "ar": "قرصنة",
+    "en": "Hacking",
+    "es": "Hackeo"
+  },
+  {
+    "ar": "بنية تحتية حرجة",
+    "en": "Critical infrastructure",
+    "es": "Infraestructura crítica"
+  },
+  {
+    "ar": "هندسة اجتماعية",
+    "en": "Social engineering",
+    "es": "Ingeniería social"
+  },
+  {
+    "ar": "تسجيل الدخول",
+    "en": "Login",
+    "es": "Inicio de sesión"
+  },
+  {
+    "ar": "ذكاء اصطناعي أمني",
+    "en": "Security AI",
+    "es": "Inteligencia artificial de seguridad"
+  },
+  {
+    "ar": "استخبارات التهديدات",
+    "en": "Threat intelligence",
+    "es": "Inteligencia de amenazas"
+  },
+  {
+    "ar": "اختراق النظام",
+    "en": "System intrusion",
+    "es": "Intrusión en el sistema"
+  },
+  {
+    "ar": "برمجيات خبيثة",
+    "en": "Malware",
+    "es": "Malware"
+  },
+  {
+    "ar": "مراقبة الشبكة",
+    "en": "Network monitoring",
+    "es": "Monitoreo de red"
+  },
+  {
+    "ar": "تصحيح أمني",
+    "en": "Security patch",
+    "es": "Parche de seguridad"
+  },
+  {
+    "ar": "التصيد الاحتيالي",
+    "en": "Phishing",
+    "es": "Phishing"
+  },
+  {
+    "ar": "خطة الاستجابة للحوادث",
+    "en": "Incident response plan",
+    "es": "Plan de respuesta a incidentes"
+  },
+  {
+    "ar": "صلاحيات المستخدم",
+    "en": "User privileges",
+    "es": "Privilegios de usuario"
+  },
+  {
+    "ar": "حماية البيانات",
+    "en": "Data protection",
+    "es": "Protección de datos"
+  },
+  {
+    "ar": "حماية الهوية الرقمية",
+    "en": "Digital identity protection",
+    "es": "Protección de identidad digital"
+  },
+  {
+    "ar": "حماية البنية التحتية الرقمية",
+    "en": "Digital infrastructure protection",
+    "es": "Protección de infraestructura digital"
+  },
+  {
+    "ar": "اختبار الاختراق",
+    "en": "Penetration testing",
+    "es": "Pruebas de penetración"
+  },
+  {
+    "ar": "برمجيات الفدية",
+    "en": "Ransomware",
+    "es": "Ransomware"
+  },
+  {
+    "ar": "التعافي من الكوارث الرقمية",
+    "en": "Disaster recovery",
+    "es": "Recuperación ante desastres digitales"
+  },
+  {
+    "ar": "استعادة البيانات",
+    "en": "Data recovery",
+    "es": "Recuperación de datos"
+  },
+  {
+    "ar": "استعادة الأنظمة",
+    "en": "System recovery",
+    "es": "Recuperación de sistemas"
+  },
+  {
+    "ar": "شبكة آمنة",
+    "en": "Secure network",
+    "es": "Red segura"
+  },
+  {
+    "ar": "تسجيل النشاط المشبوه",
+    "en": "Suspicious activity logging",
+    "es": "Registro de actividad sospechosa"
+  },
+  {
+    "ar": "تسجيل الأنشطة",
+    "en": "Activity logging",
+    "es": "Registro de actividades"
+  },
+  {
+    "ar": "سجل النظام",
+    "en": "System log",
+    "es": "Registro del sistema"
+  },
+  {
+    "ar": "استجابة للحوادث",
+    "en": "Incident response",
+    "es": "Respuesta a incidentes"
+  },
+  {
+    "ar": "الاستجابة للحوادث الرقمية",
+    "en": "Digital incident response",
+    "es": "Respuesta a incidentes digitales"
+  },
+  {
+    "ar": "الاستجابة السريعة",
+    "en": "Rapid response",
+    "es": "Respuesta rápida"
+  },
+  {
+    "ar": "خطر سيبراني",
+    "en": "Cyber risk",
+    "es": "Riesgo cibernético"
+  },
+  {
+    "ar": "سرقة الهوية الرقمية",
+    "en": "Digital identity theft",
+    "es": "Robo de identidad digital"
+  },
+  {
+    "ar": "أمن البلوكشين",
+    "en": "Blockchain security",
+    "es": "Seguridad blockchain"
+  },
+  {
+    "ar": "أمن التطبيقات",
+    "en": "Application security",
+    "es": "Seguridad de aplicaciones"
+  },
+  {
+    "ar": "أمن البيانات الضخمة",
+    "en": "Big data security",
+    "es": "Seguridad de big data"
+  },
+  {
+    "ar": "أمن نقاط النهاية",
+    "en": "Endpoint security",
+    "es": "Seguridad de endpoints"
+  },
+  {
+    "ar": "أمن المعلومات",
+    "en": "Information security",
+    "es": "Seguridad de la información"
+  },
+  {
+    "ar": "أمن الشبكات",
+    "en": "Network security",
+    "es": "Seguridad de redes"
+  },
+  {
+    "ar": "أمن البريد الإلكتروني",
+    "en": "Email security",
+    "es": "Seguridad del correo electrónico"
+  },
+  {
+    "ar": "أمن المستخدم",
+    "en": "User security",
+    "es": "Seguridad del usuario"
+  },
+  {
+    "ar": "أمن السحابة",
+    "en": "Cloud security",
+    "es": "Seguridad en la nube"
+  },
+  {
+    "ar": "أمن إنترنت الأشياء",
+    "en": "IoT security",
+    "es": "Seguridad IoT"
+  },
+  {
+    "ar": "خدمة سحابية",
+    "en": "Cloud service",
+    "es": "Servicio en la nube"
+  },
+  {
+    "ar": "نظام كشف التسلل",
+    "en": "Intrusion Detection System (IDS)",
+    "es": "Sistema de detección de intrusos"
+  },
+  {
+    "ar": "مركز عمليات الأمن",
+    "en": "Security Operations Center",
+    "es": "SOC"
+  },
+  {
+    "ar": "انتحال الهوية",
+    "en": "Identity spoofing",
+    "es": "Suplantación de identidad"
+  },
+  {
+    "ar": "التحقق من الهوية",
+    "en": "Identity verification",
+    "es": "Verificación de identidad"
+  },
+  {
+    "ar": "فيروس حاسوبي",
+    "en": "Computer virus",
+    "es": "Virus informático"
+  },
+  {
+    "ar": "شبكة خاصة افتراضية",
+    "en": "Virtual Private Network",
+    "es": "VPN"
+  },
+  {
+    "ar": "ثغرة أمنية",
+    "en": "Security vulnerability",
+    "es": "Vulnerabilidad de seguridad"
+  },
+  {
+    "ar": "جدار حماية تطبيقات الويب",
+    "en": "Web Application Firewall",
+    "es": "WAF"
+  }
+]
