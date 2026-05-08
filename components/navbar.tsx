@@ -25,7 +25,7 @@ export function Navbar({ locale }: Props) {
       <nav className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-4 py-3">
         <Link href={`/${locale}`} className="group flex items-center gap-3">
           <Image
-            src="/api/assets/logo"
+            src="/logo.jpeg"
             alt="ZERO RISK logo"
             width={52}
             height={52}
