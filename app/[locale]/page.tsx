@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import dictionary from "@/data/dictionary.json";
 import { DictionarySearch } from "@/components/dictionary-search";
@@ -103,6 +104,15 @@ export default async function LocalizedHomePage({ params }: Props) {
       <div className="grid gap-6 md:grid-cols-2">
         <section className="glass-card fade-up rounded-3xl border border-primary/20 p-6">
           <h2 className="mb-2 text-2xl font-semibold text-primary">Dictionary Showcase</h2>
+          <div className="mb-4 overflow-hidden rounded-2xl border border-primary/20 bg-white shadow-sm dark:bg-zinc-900">
+            <Image
+              src="/api/assets/cover/image"
+              alt="Dictionary cover"
+              width={900}
+              height={675}
+              className="aspect-[4/3] w-full object-cover"
+            />
+          </div>
           <p className="mb-4 text-dark/80 dark:text-secondary/80">
             Emergency dictionary cover and reference material from the provided Arabic source.
           </p>
