@@ -20,6 +20,12 @@ export default async function LocalizedHomePage({ params }: Props) {
   const t = translations[typedLocale];
   const aboutIntro = t.sections.aboutIntroBlock;
   const aboutDetail = t.sections.aboutDetailBlock;
+  const dictionaryShowcaseText =
+    typedLocale === "ar"
+      ? "يمكنك الاطلاع على غلاف القاموس الخاص بنا من خلال هذا القسم. لشراء النسخة الكاملة، يُرجى التواصل معنا عبر حسابنا الرسمي على إنستجرام:"
+      : typedLocale === "es"
+        ? "Puedes consultar la portada de nuestro diccionario en esta sección. Para comprar la versión completa, ponte en contacto con nosotros a través de nuestra cuenta oficial de Instagram:"
+        : "You can view the cover of our dictionary in this section. To purchase the full version, please contact us through our official Instagram account:";
 
   const cards = [
     { title: t.cards.guidelines, href: `/${typedLocale}/guidelines` },
@@ -114,20 +120,16 @@ export default async function LocalizedHomePage({ params }: Props) {
             />
           </div>
           <p className="mb-4 text-dark/80 dark:text-secondary/80">
-            {typedLocale === "ar"
-              ? "يمكنك الاطلاع على غلاف القاموس الخاص بنا من خلال هذا القسم. لشراء النسخة الكاملة، يُرجى التواصل معنا عبر حسابنا الرسمي على إنستجرام:"
-              : "Emergency dictionary cover and reference material from the provided Arabic source."}
+            {dictionaryShowcaseText}
           </p>
-          {typedLocale === "ar" && (
-            <a
-              href="https://www.instagram.com/zeroriskk"
-              target="_blank"
-              rel="noreferrer"
-              className="mb-4 block break-words font-semibold text-primary underline-offset-4 hover:underline"
-            >
-              https://www.instagram.com/zeroriskk
-            </a>
-          )}
+          <a
+            href="https://www.instagram.com/zeroriskk"
+            target="_blank"
+            rel="noreferrer"
+            className="mb-4 block break-words font-semibold text-primary underline-offset-4 hover:underline"
+          >
+            https://www.instagram.com/zeroriskk
+          </a>
           <a
             href="/api/assets/cover"
             target="_blank"
