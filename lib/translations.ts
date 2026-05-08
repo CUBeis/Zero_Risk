@@ -2,7 +2,6 @@ import { Locale } from "./i18n";
 
 type AboutBlock = {
   label: string;
-  title?: string;
   summary?: string;
   projectTitle?: string;
   projectText?: string;
@@ -34,8 +33,8 @@ type Dictionary = {
   sections: {
     aboutTitle: string;
     aboutText: string;
-    aboutIntroBlocks: AboutBlock[];
-    aboutDetailBlocks: AboutBlock[];
+    aboutIntroBlock: AboutBlock;
+    aboutDetailBlock: AboutBlock;
     quickLinks: string;
   };
   cards: {
@@ -48,59 +47,62 @@ type Dictionary = {
   };
 };
 
-const aboutIntroBlocks: AboutBlock[] = [
-  {
-    label: "🇸🇦 العربية",
-    summary:
-      "منصة متخصصة في الطوارئ والصحة وإدارة المخاطر، تقدم معجم مصطلحات، وإرشادات الأمن والسلامة، ودليل الجهات المختصة بالطوارئ.",
-    dir: "rtl",
+const aboutContent: Record<Locale, { intro: AboutBlock; detail: AboutBlock }> = {
+  ar: {
+    intro: {
+      label: "العربية",
+      summary:
+        "منصة متخصصة في الطوارئ والصحة وإدارة المخاطر، تقدم معجم مصطلحات، وإرشادات الأمن والسلامة، ودليل الجهات المختصة بالطوارئ.",
+      dir: "rtl",
+    },
+    detail: {
+      label: "العربية",
+      projectTitle: "عن المشروع",
+      projectText:
+        "يهدف هذا المشروع إلى إنشاء منصة رقمية متخصصة في مجال الطوارئ والصحة وإدارة المخاطر والكوارث، تقدم محتوى موثوقًا ومتكاملًا يجمع بين معجم دقيق للمصطلحات بثلاث لغات (العربية، الإسبانية، الإنجليزية)، وإرشادات الأمن والسلامة، بالإضافة إلى دليل شامل للجهات المختصة بالطوارئ. يسعى المشروع إلى دعم الطلاب والمتخصصين وتعزيز القدرة على التواصل الفعّال وفهم المصطلحات في هذا المجال الحيوي.",
+      missionTitle: "رسالتنا",
+      missionText:
+        "نسعى إلى تقديم مصدر معرفي موثوق ومتاح، يساهم في تعزيز الوعي، وتوحيد استخدام المصطلحات، ودعم الاستجابة الفعّالة في حالات الطوارئ، وفقًا لأفضل الممارسات والمعايير المهنية.",
+      dir: "rtl",
+    },
   },
-  {
-    label: "🇬🇧 English",
-    summary:
-      "A platform for emergency, health, and risk management, offering a terminology dictionary, safety guidelines, and an emergency contacts directory.",
-    dir: "ltr",
+  en: {
+    intro: {
+      label: "English",
+      summary:
+        "A platform for emergency, health, and risk management, offering a terminology dictionary, safety guidelines, and an emergency contacts directory.",
+      dir: "ltr",
+    },
+    detail: {
+      label: "English",
+      projectTitle: "About the Project",
+      projectText:
+        "This project aims to develop a specialized digital platform in the fields of emergency, health, and disaster risk management. It provides reliable and integrated content, combining a trilingual terminology dictionary (Arabic, Spanish, English), safety and security guidelines, and a comprehensive directory of emergency services. The platform is designed to support students and professionals while enhancing effective communication and understanding of key terminology in this critical field.",
+      missionTitle: "Our Mission",
+      missionText:
+        "Our mission is to provide a reliable and accessible source of knowledge that raises awareness, improves the use of terminology, and promotes proper response in emergency situations.",
+      dir: "ltr",
+    },
   },
-  {
-    label: "🇪🇸 Español",
-    summary:
-      "Una plataforma de emergencias, salud y gestión de riesgos, que ofrece un diccionario de términos, guías de seguridad y un directorio de contactos de emergencia.",
-    dir: "ltr",
+  es: {
+    intro: {
+      label: "Español",
+      summary:
+        "Una plataforma de emergencias, salud y gestión de riesgos, que ofrece un diccionario de términos, guías de seguridad y un directorio de contactos de emergencia.",
+      dir: "ltr",
+    },
+    detail: {
+      label: "Español",
+      projectTitle: "Sobre el proyecto",
+      projectText:
+        "Este proyecto tiene como objetivo desarrollar una plataforma digital especializada en emergencias, salud y gestión de riesgos y desastres. Ofrece contenido fiable e integrado que incluye un diccionario trilingüe de terminología (árabe, español y inglés), guías de seguridad y protección, y un directorio completo de contactos de emergencia. La plataforma está diseñada para apoyar a estudiantes y profesionales, mejorando la comunicación efectiva y la comprensión de la terminología en este ámbito esencial.",
+      missionTitle: "Nuestra misión",
+      missionText:
+        "Nuestra misión es proporcionar una fuente de conocimiento fiable y accesible que contribuya a aumentar la concienciación, mejorar el uso de la terminología y fomentar una respuesta adecuada en situaciones de emergencia.",
+      dir: "ltr",
+    },
   },
-];
-
-const aboutDetailBlocks: AboutBlock[] = [
-  {
-    label: "🇸🇦 العربية",
-    projectTitle: "عن المشروع",
-    projectText:
-      "يهدف هذا المشروع إلى إنشاء منصة رقمية متخصصة في مجال الطوارئ والصحة وإدارة المخاطر والكوارث، تقدم محتوى موثوقًا ومتكاملًا يجمع بين معجم دقيق للمصطلحات بثلاث لغات (العربية، الإسبانية، الإنجليزية)، وإرشادات الأمن والسلامة، بالإضافة إلى دليل شامل للجهات المختصة بالطوارئ. يسعى المشروع إلى دعم الطلاب والمتخصصين وتعزيز القدرة على التواصل الفعّال وفهم المصطلحات في هذا المجال الحيوي.",
-    missionTitle: "رسالتنا",
-    missionText:
-      "نسعى إلى تقديم مصدر معرفي موثوق ومتاح، يساهم في تعزيز الوعي، وتوحيد استخدام المصطلحات، ودعم الاستجابة الفعّالة في حالات الطوارئ، وفقًا لأفضل الممارسات والمعايير المهنية.",
-    dir: "rtl",
-  },
-  {
-    label: "🇬🇧 English",
-    projectTitle: "About the Project",
-    projectText:
-      "This project aims to develop a specialized digital platform in the fields of emergency, health, and disaster risk management. It provides reliable and integrated content, combining a trilingual terminology dictionary (Arabic, Spanish, English), safety and security guidelines, and a comprehensive directory of emergency services. The platform is designed to support students and professionals while enhancing effective communication and understanding of key terminology in this critical field.",
-    missionTitle: "Our Mission",
-    missionText:
-      "Our mission is to provide a reliable and accessible source of knowledge that raises awareness, improves the use of terminology, and promotes proper response in emergency situations.",
-    dir: "ltr",
-  },
-  {
-    label: "🇪🇸 Español",
-    projectTitle: "Sobre el proyecto",
-    projectText:
-      "Este proyecto tiene como objetivo desarrollar una plataforma digital especializada en emergencias, salud y gestión de riesgos y desastres. Ofrece contenido fiable e integrado que incluye un diccionario trilingüe de terminología (árabe, español y inglés), guías de seguridad y protección, y un directorio completo de contactos de emergencia. La plataforma está diseñada para apoyar a estudiantes y profesionales, mejorando la comunicación efectiva y la comprensión de la terminología en este ámbito esencial.",
-    missionTitle: "Nuestra misión",
-    missionText:
-      "Nuestra misión es proporcionar una fuente de conocimiento fiable y accesible que contribuya a aumentar la concienciación, mejorar el uso de la terminología y fomentar una respuesta adecuada en situaciones de emergencia.",
-    dir: "ltr",
-  },
-];
+};
 
 export const translations: Record<Locale, Dictionary> = {
   ar: {
@@ -127,8 +129,8 @@ export const translations: Record<Locale, Dictionary> = {
       aboutTitle: "عن المشروع ورسالتنا",
       aboutText:
         "منصة متخصصة في الطوارئ والصحة وإدارة المخاطر، تقدم معجم مصطلحات، وإرشادات الأمن والسلامة، ودليل الجهات المختصة بالطوارئ.",
-      aboutIntroBlocks,
-      aboutDetailBlocks,
+      aboutIntroBlock: aboutContent.ar.intro,
+      aboutDetailBlock: aboutContent.ar.detail,
       quickLinks: "روابط سريعة",
     },
     cards: {
@@ -165,8 +167,8 @@ export const translations: Record<Locale, Dictionary> = {
       aboutTitle: "About the Project & Our Mission",
       aboutText:
         "A platform for emergency, health, and risk management, offering a terminology dictionary, safety guidelines, and an emergency contacts directory.",
-      aboutIntroBlocks,
-      aboutDetailBlocks,
+      aboutIntroBlock: aboutContent.en.intro,
+      aboutDetailBlock: aboutContent.en.detail,
       quickLinks: "Quick Links",
     },
     cards: {
@@ -203,8 +205,8 @@ export const translations: Record<Locale, Dictionary> = {
       aboutTitle: "Sobre el proyecto y nuestra misión",
       aboutText:
         "Una plataforma de emergencias, salud y gestión de riesgos, que ofrece un diccionario de términos, guías de seguridad y un directorio de contactos de emergencia.",
-      aboutIntroBlocks,
-      aboutDetailBlocks,
+      aboutIntroBlock: aboutContent.es.intro,
+      aboutDetailBlock: aboutContent.es.detail,
       quickLinks: "Enlaces Rápidos",
     },
     cards: {
