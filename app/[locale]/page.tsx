@@ -114,8 +114,20 @@ export default async function LocalizedHomePage({ params }: Props) {
             />
           </div>
           <p className="mb-4 text-dark/80 dark:text-secondary/80">
-            Emergency dictionary cover and reference material from the provided Arabic source.
+            {typedLocale === "ar"
+              ? "يمكنك الاطلاع على غلاف القاموس الخاص بنا من خلال هذا القسم. لشراء النسخة الكاملة، يُرجى التواصل معنا عبر حسابنا الرسمي على إنستجرام:"
+              : "Emergency dictionary cover and reference material from the provided Arabic source."}
           </p>
+          {typedLocale === "ar" && (
+            <a
+              href="https://www.instagram.com/zeroriskk"
+              target="_blank"
+              rel="noreferrer"
+              className="mb-4 block break-words font-semibold text-primary underline-offset-4 hover:underline"
+            >
+              https://www.instagram.com/zeroriskk
+            </a>
+          )}
           <a
             href="/api/assets/cover"
             target="_blank"
