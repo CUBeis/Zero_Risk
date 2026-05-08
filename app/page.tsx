@@ -10,7 +10,7 @@ export default function Home() {
       <section className="glass-card fade-up relative z-10 w-full max-w-4xl rounded-3xl border border-primary/25 p-8 shadow-[0_20px_50px_rgba(204,0,0,0.18)] md:p-12">
         <div className="mb-8 flex items-center gap-4">
           <Image
-            src="/api/assets/logo"
+            src="/logo.jpeg"
             alt="ZERO RISK logo"
             width={72}
             height={72}

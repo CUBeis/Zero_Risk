@@ -24,9 +24,33 @@ export default async function LocalizedHomePage({ params }: Props) {
     { title: t.cards.mistakes, href: `/${typedLocale}/common-mistakes` },
   ];
   const stats = [
-    { value: "24/7", label: typedLocale === "ar" ? "جاهزية للطوارئ" : typedLocale === "es" ? "Preparación continua" : "Emergency readiness" },
-    { value: "3", label: typedLocale === "ar" ? "لغات مدعومة" : typedLocale === "es" ? "Idiomas soportados" : "Supported languages" },
-    { value: "1000+", label: typedLocale === "ar" ? "مصطلح طوارئ" : typedLocale === "es" ? "Términos de emergencia" : "Emergency terms" },
+    {
+      value: "24/7",
+      label:
+        typedLocale === "ar"
+          ? "جاهزية للطوارئ"
+          : typedLocale === "es"
+            ? "Preparación continua"
+            : "Emergency readiness",
+    },
+    {
+      value: "3",
+      label:
+        typedLocale === "ar"
+          ? "لغات مدعومة"
+          : typedLocale === "es"
+            ? "Idiomas soportados"
+            : "Supported languages",
+    },
+    {
+      value: "1000+",
+      label:
+        typedLocale === "ar"
+          ? "مصطلح طوارئ"
+          : typedLocale === "es"
+            ? "Términos de emergencia"
+            : "Emergency terms",
+    },
   ];
 
   return (
@@ -91,19 +115,38 @@ export default async function LocalizedHomePage({ params }: Props) {
         </section>
 
         <section id="about" className="glass-card fade-up rounded-3xl border border-primary/20 p-6">
-          <h2 className="mb-3 text-2xl font-semibold text-primary">{t.sections.aboutTitle}</h2>
-          <p className="text-dark/85 dark:text-secondary/85">{t.sections.aboutText}</p>
-          <div className="mt-5 rounded-xl border border-primary/20 bg-primary/5 p-4">
-            <p className="text-sm font-semibold text-primary">
-              {typedLocale === "ar" ? "هدفنا" : typedLocale === "es" ? "Nuestro enfoque" : "Our focus"}
-            </p>
-            <p className="mt-1 text-sm text-dark/80 dark:text-secondary/80">
-              {typedLocale === "ar"
-                ? "رفع الجاهزية، تسهيل الوصول للمعلومات، وتقليل المخاطر."
-                : typedLocale === "es"
-                  ? "Mejorar la preparación, facilitar el acceso a información y reducir riesgos."
-                  : "Improve preparedness, simplify access to guidance, and reduce risks."}
-            </p>
+          <h2 className="mb-4 text-2xl font-semibold text-primary">{t.sections.aboutTitle}</h2>
+          <div className="space-y-4">
+            {t.sections.aboutIntroBlocks.map((block) => (
+              <article
+                key={block.label}
+                dir={block.dir}
+                className="rounded-xl border border-primary/15 bg-primary/5 p-4"
+              >
+                <h3 className="text-sm font-bold text-primary">{block.label}</h3>
+                <p className="mt-2 text-sm leading-7 text-dark/85 dark:text-secondary/85">{block.summary}</p>
+              </article>
+            ))}
+          </div>
+
+          <div className="mt-6 space-y-5">
+            {t.sections.aboutDetailBlocks.map((block) => (
+              <article key={block.label} dir={block.dir} className="border-t border-primary/15 pt-5">
+                <p className="text-sm font-bold text-primary">{block.label}</p>
+                <h3 className="mt-2 text-lg font-semibold text-dark dark:text-secondary">
+                  {block.projectTitle}
+                </h3>
+                <p className="mt-2 text-sm leading-7 text-dark/80 dark:text-secondary/80">
+                  {block.projectText}
+                </p>
+                <h3 className="mt-4 text-lg font-semibold text-dark dark:text-secondary">
+                  {block.missionTitle}
+                </h3>
+                <p className="mt-2 text-sm leading-7 text-dark/80 dark:text-secondary/80">
+                  {block.missionText}
+                </p>
+              </article>
+            ))}
           </div>
         </section>
       </div>
