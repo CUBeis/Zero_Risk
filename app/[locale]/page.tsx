@@ -17,6 +17,8 @@ export default async function LocalizedHomePage({ params }: Props) {
 
   const typedLocale = locale as Locale;
   const t = translations[typedLocale];
+  const aboutIntro = t.sections.aboutIntroBlock;
+  const aboutDetail = t.sections.aboutDetailBlock;
 
   const cards = [
     { title: t.cards.guidelines, href: `/${typedLocale}/guidelines` },
@@ -117,36 +119,33 @@ export default async function LocalizedHomePage({ params }: Props) {
         <section id="about" className="glass-card fade-up rounded-3xl border border-primary/20 p-6">
           <h2 className="mb-4 text-2xl font-semibold text-primary">{t.sections.aboutTitle}</h2>
           <div className="space-y-4">
-            {t.sections.aboutIntroBlocks.map((block) => (
-              <article
-                key={block.label}
-                dir={block.dir}
-                className="rounded-xl border border-primary/15 bg-primary/5 p-4"
-              >
-                <h3 className="text-sm font-bold text-primary">{block.label}</h3>
-                <p className="mt-2 text-sm leading-7 text-dark/85 dark:text-secondary/85">{block.summary}</p>
-              </article>
-            ))}
+            <article
+              dir={aboutIntro.dir}
+              className="rounded-xl border border-primary/15 bg-primary/5 p-4"
+            >
+              <h3 className="text-sm font-bold text-primary">{aboutIntro.label}</h3>
+              <p className="mt-2 text-sm leading-7 text-dark/85 dark:text-secondary/85">
+                {aboutIntro.summary}
+              </p>
+            </article>
           </div>
 
           <div className="mt-6 space-y-5">
-            {t.sections.aboutDetailBlocks.map((block) => (
-              <article key={block.label} dir={block.dir} className="border-t border-primary/15 pt-5">
-                <p className="text-sm font-bold text-primary">{block.label}</p>
-                <h3 className="mt-2 text-lg font-semibold text-dark dark:text-secondary">
-                  {block.projectTitle}
-                </h3>
-                <p className="mt-2 text-sm leading-7 text-dark/80 dark:text-secondary/80">
-                  {block.projectText}
-                </p>
-                <h3 className="mt-4 text-lg font-semibold text-dark dark:text-secondary">
-                  {block.missionTitle}
-                </h3>
-                <p className="mt-2 text-sm leading-7 text-dark/80 dark:text-secondary/80">
-                  {block.missionText}
-                </p>
-              </article>
-            ))}
+            <article dir={aboutDetail.dir} className="border-t border-primary/15 pt-5">
+              <p className="text-sm font-bold text-primary">{aboutDetail.label}</p>
+              <h3 className="mt-2 text-lg font-semibold text-dark dark:text-secondary">
+                {aboutDetail.projectTitle}
+              </h3>
+              <p className="mt-2 text-sm leading-7 text-dark/80 dark:text-secondary/80">
+                {aboutDetail.projectText}
+              </p>
+              <h3 className="mt-4 text-lg font-semibold text-dark dark:text-secondary">
+                {aboutDetail.missionTitle}
+              </h3>
+              <p className="mt-2 text-sm leading-7 text-dark/80 dark:text-secondary/80">
+                {aboutDetail.missionText}
+              </p>
+            </article>
           </div>
         </section>
       </div>
