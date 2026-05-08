@@ -109,8 +109,8 @@ export default async function LocalizedHomePage({ params }: Props) {
               src="/api/assets/cover/image"
               alt="Dictionary cover"
               width={900}
-              height={675}
-              className="aspect-[4/3] w-full object-cover"
+              height={1275}
+              className="aspect-[2/3] w-full object-contain"
             />
           </div>
           <p className="mb-4 text-dark/80 dark:text-secondary/80">
