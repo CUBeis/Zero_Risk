@@ -2,19 +2,19 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 
 export async function GET() {
-  const coverPath = path.join(
+  const imagePath = path.join(
     process.cwd(),
     "app",
     "api",
     "assets",
     "cover",
-    "Portada árabe.pdf",
+    "Cover.jpeg",
   );
-  const file = await fs.readFile(coverPath);
+  const file = await fs.readFile(imagePath);
 
   return new Response(file, {
     headers: {
-      "Content-Type": "application/pdf",
+      "Content-Type": "image/jpeg",
       "Cache-Control": "public, max-age=3600",
     },
   });
